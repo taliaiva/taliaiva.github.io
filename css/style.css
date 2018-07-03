@@ -1,9 +1,7 @@
 
 body {
-  background-color: #ffffff;
+  background-color: #de6a5b;
 }
-
-
 
 .en:lang(en), .fr:lang(fr){
     font-weight: bold;
