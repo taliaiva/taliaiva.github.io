@@ -1,0 +1,93 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Natalia Ivanova
+email: natalia.ivanova11@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.taliaiva.com" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+# Google services
+#google_analytics: UA-100838240-1
+
+t:
+  en:
+    biography:
+      name: "Biography"
+      url: "/biography-en.html"
+#    repertoire:
+#      name: "Repertoire"
+#      url: "/repertoire-en.html"
+    pictures:
+      name: "Pictures"
+      url: "/pictures-en.html"
+    audio:
+      name: "Audio"
+      url: "/audio-en.html"
+    video:
+      name: "Video"
+      url: "/video-en.html"
+    agenda:
+      name: "Agenda"
+      url: "/agenda-en.html"
+  fr:
+    biography:
+      name: "Biographie"
+      url: "/biography-fr.html"
+ #   repertoire:
+ #     name: "Répertoire"
+ #     url: "/repertoire-fr.html"
+    pictures:
+      name: "Photos"
+      url: "/pictures-fr.html"
+    audio:
+      name: "Audio"
+      url: "/audio-fr.html"
+    video:
+      name: "Vidéos"
+      url: "/video-fr.html"
+    agenda:
+      name: "Agenda"
+      url: "/agenda-fr.html"
+  de:
+    biography:
+      name: "Biography"
+      url: "/biography-de.html"
+ #   repertoire:
+ #     name: "Repertoire"
+ #     url: "/repertoire-de.html"
+    pictures:
+      name: "Pictures"
+      url: "/pictures-de.html"
+    audio:
+      name: "Audio"
+      url: "/audio-de.html"
+    video:
+      name: "Video"
+      url: "/video-de.html"
+    agenda:
+      name: "Agenda"
+      url: "/agenda-de.html"
+
+
+home:
+  en:
+    home:    
+      url: "/index.html"
+  fr:
+    home:
+      url: "index-fr.html"
+  de:
+    home:
+      url: "index-de.html"

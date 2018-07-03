@@ -1,0 +1,12 @@
+
+body {
+  background-color: #ffffff;
+}
+
+
+
+.en:lang(en), .fr:lang(fr){
+    font-weight: bold;
+}
+
+
