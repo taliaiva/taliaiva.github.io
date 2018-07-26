@@ -8,5 +8,7 @@ ref: biography
 ---
 
 Here comes your bio.
+
 Меня зовут Наталья
+
 ![A bio picture](assets/bio.jpg)
