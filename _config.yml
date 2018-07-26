@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.taliaiva.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
+youtube_channel: "UCtStp5Cgjl_rVvPUDLvr3Fw"
 
 # Build settings
 markdown: kramdown
@@ -85,9 +86,9 @@ home:
   en:
     home:    
       url: "/index.html"
-  fr:
+  ru:
     home:
-      url: "index-fr.html"
+      url: "index-ru.html"
   de:
     home:
       url: "index-de.html"

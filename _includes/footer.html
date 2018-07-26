@@ -25,6 +25,14 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.youtube_channel %}
+          <li>
+            <a href="https://youtube.com/channel/{{ site.youtube_channel }}">
+              <i class="fa fa-youtube"></i> YouTube
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 
