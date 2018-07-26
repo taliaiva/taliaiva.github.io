@@ -23,62 +23,62 @@ markdown: kramdown
 
 t:
   en:
-    biography:
-      name: "Biography"
-      url: "/biography-en.html"
-#    repertoire:
-#      name: "Repertoire"
-#      url: "/repertoire-en.html"
+    about:
+      name: "About"
+      url: "/about-en.html"
     pictures:
       name: "Pictures"
       url: "/pictures-en.html"
-    audio:
-      name: "Audio"
-      url: "/audio-en.html"
     video:
       name: "Video"
       url: "/video-en.html"
-    agenda:
-      name: "Agenda"
-      url: "/agenda-en.html"
-  fr:
-    biography:
-      name: "Biographie"
-      url: "/biography-fr.html"
- #   repertoire:
- #     name: "Répertoire"
- #     url: "/repertoire-fr.html"
+    projects:
+      name: "Projects"
+      url: "/projects-en.html"
+    vocal-coaching:
+      name: "Vocals"
+      url: "/vocal-coaching-en.html"
+    contact:
+      name: "Contact"
+      url: "/contact-en.html"
+  ru:
+    about:
+      name: "About"
+      url: "/about-ru.html"
     pictures:
-      name: "Photos"
-      url: "/pictures-fr.html"
-    audio:
-      name: "Audio"
-      url: "/audio-fr.html"
+      name: "Pictures"
+      url: "/pictures-ru.html"
     video:
-      name: "Vidéos"
-      url: "/video-fr.html"
-    agenda:
-      name: "Agenda"
-      url: "/agenda-fr.html"
+      name: "Video"
+      url: "/video-ru.html"
+    projects:
+      name: "Projects"
+      url: "/projects-ru.html"
+    vocal-coaching:
+      name: "Vocals"
+      url: "/vocal-coaching-ru.html"
+    contact:
+      name: "Contact"
+      url: "/contact-ru.html"
   de:
-    biography:
-      name: "Biography"
-      url: "/biography-de.html"
- #   repertoire:
- #     name: "Repertoire"
- #     url: "/repertoire-de.html"
+    about:
+      name: "About"
+      url: "/about-de.html"
     pictures:
       name: "Pictures"
       url: "/pictures-de.html"
-    audio:
-      name: "Audio"
-      url: "/audio-de.html"
     video:
       name: "Video"
       url: "/video-de.html"
-    agenda:
-      name: "Agenda"
-      url: "/agenda-de.html"
+    projects:
+      name: "Projects"
+      url: "/projects-de.html"
+    vocal-coaching:
+      name: "Vocals"
+      url: "/vocal-coaching-de.html"
+    contact:
+      name: "Contact"
+      url: "/contact-de.html"
 
 
 home:

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Audio
+title: Vocal coaching
 menuorder: 4
-ref: audio
-lang: fr
+ref: vocal-coaching
+lang: ru
 ---
 Ici viennent quelques iframes de Soundcloud.

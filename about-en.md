@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Biography
+title: About
 menuorder: 2
 lang: en
-ref: biography
+ref: about
 
 ---
 
 Here comes your bio.
-
-Меня зовут Наталья
 
 ![A bio picture](assets/bio.jpg)

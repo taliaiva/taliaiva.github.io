@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Biographie
+title: About
 menuorder: 2
 lang: de
-ref: biography
+ref: about
 
 ---
 
 Hier kommt die bio
+
+Schreiben sie etwas
 
 ![](assets/bio.jpg)

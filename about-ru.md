@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Biographie
+title: About
 menuorder: 2
-lang: fr
-ref: biography
+lang: ru
+ref: about
 ---
 
 Ici vient le bio.

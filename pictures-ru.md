@@ -2,7 +2,7 @@
 layout: page
 title: Galerie
 menuorder: 7
-lang: fr
+lang: ru
 ref: pictures
 ---
 | <a href="/assets/a10.jpg"> ![]({{ site.baseurl }}/assets/a10-thumbnail.jpg) </a> | <a href="/assets/a5.jpg"> ![]({{ site.baseurl }}/assets/a5-thumbnail.jpg) </a> | <a href="/assets/a16.jpg">  ![]({{ site.baseurl }}/assets/a6-thumbnail.jpg) </a> |
