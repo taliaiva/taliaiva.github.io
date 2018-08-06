@@ -15,6 +15,8 @@ url: "http://www.taliaiva.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 youtube_channel: "UCtStp5Cgjl_rVvPUDLvr3Fw"
+facebook_page: "natalia.ivanova.779642"
+instagram_page: "taliaiva"
 
 # Build settings
 markdown: kramdown
