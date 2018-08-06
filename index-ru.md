@@ -5,4 +5,5 @@ ref: home
 lang: ru
 langorder: 2
 ---
-![](assets/muurfoto.jpg)
+
+![](assets/DSC_1026.jpg)

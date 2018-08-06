@@ -6,5 +6,4 @@ lang: de
 langorder: 3
 ---
 
-
-![](assets/muurfoto.jpg)
+![](assets/DSC_1026.jpg)
