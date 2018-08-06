@@ -6,4 +6,4 @@ lang: ru
 langorder: 2
 ---
 
-![](assets/DSC_1026.jpg)
+![](assets/DSC_1762.jpg)
