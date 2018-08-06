@@ -33,12 +33,12 @@ t:
     video:
       name: "Video"
       url: "/video-en.html"
+    vocal-coaching:
+      name: "Vocal Coaching"
+      url: "/vocal-coaching-en.html"
     projects:
       name: "Projects"
       url: "/projects-en.html"
-    vocal-coaching:
-      name: "Vocals"
-      url: "/vocal-coaching-en.html"
     contact:
       name: "Contact"
       url: "/contact-en.html"
@@ -52,12 +52,12 @@ t:
     video:
       name: "Video"
       url: "/video-ru.html"
+    vocal-coaching:
+      name: "Vocal Coaching"
+      url: "/vocal-coaching-ru.html"
     projects:
       name: "Projects"
       url: "/projects-ru.html"
-    vocal-coaching:
-      name: "Vocals"
-      url: "/vocal-coaching-ru.html"
     contact:
       name: "Contact"
       url: "/contact-ru.html"
@@ -71,12 +71,12 @@ t:
     video:
       name: "Video"
       url: "/video-de.html"
+    vocal-coaching:
+      name: "Vocal Coaching"
+      url: "/vocal-coaching-de.html"
     projects:
       name: "Projects"
       url: "/projects-de.html"
-    vocal-coaching:
-      name: "Vocals"
-      url: "/vocal-coaching-de.html"
     contact:
       name: "Contact"
       url: "/contact-de.html"
