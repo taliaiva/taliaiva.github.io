@@ -5,5 +5,14 @@ ref: home
 lang: en
 langorder: 1
 ---
+This is an official website of Natalia Ivanova, mezzo soprano, vocal coach flamenco dancer and creative mind.
+
+‘Natalia has an instinctive and natural gift for interpretation’ Ronny Lauwers, former director of International Opera Academy of Ghent
+
+‘Her mezzo soprano voice is well developed and she is a gifted musician and performer’ Dina Grossberger, professor of singing Luca School of Arts
+
+‘I was a first row witness of her artistic capacities as a brilliant singer’ Godfried Van de Vyvere, professor of singing and conductor
+
+
 
 ![](assets/DSC_1762.jpg)
