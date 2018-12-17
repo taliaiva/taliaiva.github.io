@@ -13,15 +13,17 @@ Natalia showed early aptitude for classical music and quickly picked up music no
 
 Natalia was admitted to the Luca School of Arts in 2009. Together with her former professor Dina Grossberger they shaped and molded her artistic and vocal skills. After five years of intense training she successfully obtained Master’s Degree in Music. Soon after that she got an opportunity to get instruction with professor Melanie Sonnenberg at the University of Houston Moores School of Music. With her guidance Natalia participated in the summer program ‘Le Chiavi di Bel Canto’ in 2015. During the daily sessions she was coached by Nova Thomas, Joseph Evans and Ruth Ann.
 
-Natalia Ivanova currently is exploring new repertoire and being coached by director Ronny Lauwers and piano coach Iris de Blaere. Furthermore she is developing her YouTube channel where she shares her experience and helps other singers with their vocal technique.
+Natalia Ivanova currently explores new repertoire and being coached by director Ronny Lauwers and piano coach Iris de Blaere. Furthermore she creates YouTube channel where she shares her experience and helps other singers with their vocal technique.
 
 To read more about her artistic projects click here.
 
 Download Repertoire here
-Download Letters of Recommendation here
-Download Master’s Degree here
-Download Teacher’s Degree here
 
+Download Letters of Recommendation here
+
+Download Master’s Degree here
+
+Download Teacher’s Degree here
 
 You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).
 
