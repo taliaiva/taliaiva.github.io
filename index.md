@@ -7,7 +7,7 @@ langorder: 1
 ---
 Welcome to www.TaliaIva.com
 
-This is an official website of Natalia Ivanova, mezzo soprano, vocal and creative mind.
+This is an official website of Natalia Ivanova, mezzo soprano, vocal coach and creative mind.
 
 ‘Natalia has an instinctive and natural gift for interpretation’ Ronny Lauwers, former director of International Opera Academy of Ghent
 
