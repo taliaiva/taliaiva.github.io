@@ -5,7 +5,9 @@ ref: home
 lang: en
 langorder: 1
 ---
-This is an official website of Natalia Ivanova, mezzo soprano, vocal coach flamenco dancer and creative mind.
+Welcome to www.TaliaIva.com
+
+This is an official website of Natalia Ivanova, mezzo soprano, vocal and creative mind.
 
 ‘Natalia has an instinctive and natural gift for interpretation’ Ronny Lauwers, former director of International Opera Academy of Ghent
 
