@@ -13,7 +13,7 @@ langorder: 2
 Пожалуйста, не стесняйтесь подписаться или оставить вопрос в разделе комментариев на Ютюб канале. Вы также можете отправить свои вопросы на TaliaIvaVoice@gmail.com. 
 
 (Projects pic 1)
-
+![](assets/Projects pic 1.jpg)
 
 
 Концертный зал «Handelsbeurs» 2017
@@ -24,6 +24,7 @@ langorder: 2
 (Projects pic 2,3,4) 
 ![](assets/KOUTER_GENT OKTOBER 17_2017.jpg)
 
+| ![]({{ site.baseurl }}/assets/Projects pic 2.jpg) | ![]({{ site.baseurl }}/assets/Projects pic 3.jpg) | ![]({{ site.baseurl }}/assets/Projects pic 4.jpg) |
 
 Зимний концерт в замке Лейселебеке 2017
 Прекрасный классический концерт, организованный в самом сердце Синт-Михилса в великолепном замке Лейселебеке. Трио-ансамбль в составе Виктора Певернаге, Александра Деклерка и Натальи Ивановой исполнял художественные песни, арии и дуэты эпохи романтизма и классики. В программу вошли пьесы Чайковского, Бизе, Штрауса, Моцарта и Берлиоза.
@@ -136,13 +137,3 @@ langorder: 2
 
 
 
-
-
-
-![](assets/KOUTER_GENT OKTOBER 17_2017.jpg)
-
-![](assets/Rose de Leyn 3.jpg)
-
-![](assets/Rose de Leyn 2.jpg)
-
-![](assets/Rose de Leyn 1.jpg)
