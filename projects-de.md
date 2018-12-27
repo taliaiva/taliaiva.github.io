@@ -165,4 +165,4 @@ Natalia started her journey as a singer by taking part in the local talent compe
 
 ![](assets/Projects pic 26.jpg)
 
-![](assets/Projects pic 27.jpg))
+![](assets/Projects pic 27.jpg)
