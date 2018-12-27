@@ -16,4 +16,4 @@ TaliaIvaVoice@gmail.com
 
 Подписывайтесь на YouTube: [YouTube channel](https://www.youtube.com/channel/UCtStp5Cgjl_rVvPUDLvr3Fw?view_as=subscriber)
 
-![](assets/DSC_1246.jpg)
+![](assets/DSC_1348.jpg)
