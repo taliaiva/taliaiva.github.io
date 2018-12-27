@@ -63,7 +63,7 @@ langorder: 2
 
 ![](assets/Projects pic 11.JPG)
 
-![](assets/Projects pic 12.JPGpg)
+![](assets/Projects pic 12.JPG)
 
 
 
