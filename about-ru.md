@@ -17,12 +17,10 @@ langorder: 2
 
 Чтобы узнать больше о её художественных проектах, нажмите здесь.
 
-Скачать репертуар нажмите [здесь]({{ site.baseurl }}/assets/CV.pdf).    
+Скачать репертуар нажмите [здесь]({{ site.baseurl }}/assets/Repertoire_EN.pdf).    
 
-Скачать степень магистра нажмите [здесь]({{ site.baseurl }}/assets/CV.pdf).    
+Скачать степень магистра нажмите [здесь]({{ site.baseurl }}/assets/Master_EN.pdf).    
 
-Скачать резюме нажмите [здесь]({{ site.baseurl }}/assets/CV.pdf).    
-                                                                                                             
-                 
-                                                                                   
+Скачать резюме нажмите [здесь]({{ site.baseurl }}/assets/CV_EN.pdf).                                           
+                                                                                  
 ![A bio picture](assets/DSC_1348.jpg)   
