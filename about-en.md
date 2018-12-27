@@ -21,6 +21,6 @@ Download her Repertoire [here]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 
 Download her Master’s Degree [here]({{ site.baseurl }}/assets/Master_EN.jpg).
 
-Download her CV [here]({{ site.baseurl }}/assets/CV_Nl.pdf).
+Download her CV [here]({{ site.baseurl }}/assets/CV_ND.pdf).
 
 ![A bio picture](assets/DSC_1348.jpg)
