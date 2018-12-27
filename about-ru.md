@@ -19,7 +19,7 @@ langorder: 2
 
 Скачать репертуар нажмите [здесь]({{ site.baseurl }}/assets/Repertoire_EN.pdf).    
 
-Скачать степень магистра нажмите [здесь]({{ site.baseurl }}/assets/Master_EN.pdf).    
+Скачать степень магистра нажмите [здесь]({{ site.baseurl }}/assets/Master_EN.jpg).    
 
 Скачать резюме нажмите [здесь]({{ site.baseurl }}/assets/CV_Nl.pdf).                                           
                                                                                   
