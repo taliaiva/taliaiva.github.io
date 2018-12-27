@@ -14,6 +14,6 @@ TaliaIvaVoice@gmail.com
 
 Подписывайтесь на Facebook: [Talia Iva](https://www.facebook.com/natalia.ivanova.779642)
 
-Подписывайтесь на YouTub: [YouTube channel](https://www.youtube.com/channel/UCtStp5Cgjl_rVvPUDLvr3Fw?view_as=subscriber)
+Подписывайтесь на YouTube: [YouTube channel](https://www.youtube.com/channel/UCtStp5Cgjl_rVvPUDLvr3Fw?view_as=subscriber)
 
 ![](assets/DSC_1246.jpg)
