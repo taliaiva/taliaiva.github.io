@@ -9,9 +9,9 @@ langorder: 1
 
 ![](assets/BANNER YOUTUBE Vocal coaching.png)
 
-Наталья делится своим опытом вокального мастерства на Ютюб канале. Там вы можете найти различные упражнения, которые помогут вам развить ваш голос. Обсуждаются такие темы, как опора дыхания, проекция, микс, образ жизни, физические упражнения и другие инструменты, необходимые для помощи певцам на их пути к cвободному звукоизвлечению.
+Natalia has created YouTube channel where she shares her experience in vocal development. There you can find various exercises that shape and balance your voice. Topics like breath support, projection, vocal mix, lifestyle, physical exercises and other tools necessary to help singers on their journey to the vocal freedom are being discussed. 
 
-Пожалуйста, не стесняйтесь подписаться или оставить вопрос в разделе комментариев на Ютюб канале. Вы также можете отправить свои вопросы на TaliaIvaVoice@gmail.com. 
+Please feel free to subscribe or leave a question in the comment section. You can also send your questions to TaliaIvaVoice@gmail.com.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKi71AN3mgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
