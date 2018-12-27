@@ -22,8 +22,7 @@ langorder: 2
 Скачать степень магистра нажмите [здесь]({{ site.baseurl }}/assets/CV.pdf).    
 
 Скачать резюме нажмите [здесь]({{ site.baseurl }}/assets/CV.pdf).    
-                             
-                                                                                   
-You can download her CV [here]({{ site.baseurl }}/assets/CV.pdf).                  
+                                                                                                             
+                 
                                                                                    
 ![A bio picture](assets/DSC_1348.jpg)   
