@@ -48,8 +48,6 @@ Musical Beauty and the Beast 2017
 
 In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the Beast”. Natalia was engaged in the project and directed songs appearing in the musical. It was a joy to instruct and guide young dancers towards a great performance.
 
-(YouTube link to the summer camp performance)
-
 ![](assets/Projects pic 9.JPG)
 
 ![](assets/Projects pic 10.JPG)
@@ -148,7 +146,7 @@ For a couple of years Natalia has been a lead singer of a lounge band “Cocktai
 ![](assets/Projects pic 24.JPG)
 
 ![](assets/Projects pic 25.jpg)
-
+Cover design: Jan-Sebastiaan Degeyter
 
 Kunstbende 2004
 Natalia started her journey as a singer by taking part in the local talent competition. She played the piano and sang a cover “How come you don’t call me”. That performance got her straight into the finals. There she encountered other young musicians, photographers, dancers and artists. On that occasion Natalia appeared in the local newspaper Brugsch Handelsblad. This experience motivated Natalia to pursue a career in music.
