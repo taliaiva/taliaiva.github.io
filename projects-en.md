@@ -11,7 +11,6 @@ Vocal Coaching 2018
 
 Natalia has created YouTube channel where she shares her experience in vocal development. There you can find various exercises that shape and balance your voice. Topics like breath support, projection, vocal mix, lifestyle, physical exercises and other tools necessary to help singers on their journey to the vocal freedom are being discussed. 
 
-Please feel free to subscribe or leave a question in the comment section. You can also send your questions to TaliaIvaVoice@gmail.com. 
 
 ![](assets/Projects pic 1.jpg)
 
