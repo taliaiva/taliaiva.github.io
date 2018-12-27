@@ -75,7 +75,7 @@ Zoya and Natalia art directed photo shoots, creating catalogue of clothing desig
 ![](assets/Projects pic 14.jpg)
 
 ![](assets/Projects pic 15.jpg)
-
+Photos Credit: Zoya Victorovna
 
 27 Bflat jazz bar performance 2016
 Natalia performed jazz standards in the tourist heart of Bruges jazz & blues club 27Bflat.
