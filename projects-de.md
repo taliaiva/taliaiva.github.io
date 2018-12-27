@@ -22,7 +22,7 @@ Concert Hall Handelsbeurs 2017
 On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Natalia got an opportunity to take part in the Russian festival organized by CirQ at the main square Kouter in Gent. There she sang Russian folk songs accompanied by pianist Mike Julien. On that occasion she was also invited to record a promotional radio spot on radio 1 in Belgium.
 
 
-(Projects radio spot)
+(Handelsbeurs 15 mp3)
 
 ![](assets/Projects pic 2.jpg)
 
