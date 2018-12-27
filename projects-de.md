@@ -83,11 +83,13 @@ Natalia performed jazz standards in the tourist heart of Bruges jazz & blues clu
 
 
 ![](assets/Projects pic 16.jpg)
+
 Photo Credit: Koen
 
 
 
 Dudley Recital Hall concert 2015
+
 Natalia received a scholarship to participate at the Immanuel and Helen Olshan Texas Music Festival program. The summer program “Le Chiavi di Bel Canto” is held at the University of Houston Moores School of Music. There she got classes in acting and dramatic interpretation, diction, stage movement, dance and body awareness. The faculty consisted of the professionals with years of international experience, such as Melanie Sonnenberg, Nova Thomas, Joseph Evans and Ruth Ann. The program concluded with a beautiful concert at the Dudley Recital Hall in Houston.
 
 
@@ -95,6 +97,7 @@ Natalia received a scholarship to participate at the Immanuel and Helen Olshan T
 
 
 The Ilocano club of Metropolitan Houston 2015
+
 Natalia performed a wonderful rendition of duet “The Prayer” at the gala dinner event held by the Ilocano club of Metropolitan Houston. The event was staged at the prestigious Hilton Houston Galleria Area Hotel. 
 
 ![](assets/Projects pic 18.jpg)
@@ -103,6 +106,7 @@ Natalia performed a wonderful rendition of duet “The Prayer” at the gala din
 
 
 Chamber music recitals with Lise Cornillie 2014
+
 Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Together they discovered numerous art song cycles by romantic and 20th - century composers. They performed chamber music repertoire at the various locations across East Flanders and Flemish Brabant in 2013 and 2014. “The Nursery” by M. Mussorgsky, “Five Elizabethan Songs” by I. Gurney, “A charm of Lullabies” and “Cabaret Songs” by B. Britten, “Siete Canciones Populares Espanolas” by M. de Falla are a few examples from their extended list of repertoire.
 
 ![](assets/Projects pic 19.JPG)
@@ -111,6 +115,7 @@ Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Tog
 
 
 Art song concert Luca School of Arts 2013
+
 Chamber music class of Luca School of Arts performed arts songs from romantic era. Natalia sang “Nun hast du mir den ersten Schmerz getan” from song cycle “Frauen-Liebe und Leben” by Robert Schumann and “Nachtgang” by Richard Strauss. 
 
 ![](assets/Projects pic 20.jpg)
@@ -121,6 +126,7 @@ Chamber music class of Luca School of Arts performed arts songs from romantic er
 
 
 Dido and Aeneas 2011 - 2012
+
 Two successive years Natalia was engaged in the production of the Baroque opera “Dido and Aeneas” by Henry Purcell. The ensemble was led by conductor Patrick Peire and art director Hugo Segers. Natalia sang in the choir and played two minor roles, namely a drunk sailor and a second witch.
 
 ![](assets/Projects pic 21.jpg)
@@ -131,6 +137,7 @@ Two successive years Natalia was engaged in the production of the Baroque opera 
 
 
 Recital at Pianos Maene in Brussels 2010
+
 Beautiful classical recital that took place in the Piano Maene concert hall. The program included art songs and arias by Nikolai Rimsky-Korsakov, Franz Lehar and Jacques Offenbach. Natalia was accompanied by a talented pianist Peter Jeurissen.
 
 
@@ -140,6 +147,7 @@ Beautiful classical recital that took place in the Piano Maene concert hall. The
 
 
 Cocktail dress 2007-2009
+
 For a couple of years Natalia has been a lead singer of a lounge band “Cocktail Dress”. The band consisted of percussion, vocals, electric guitar and bass guitar. They created unique sound and original songs that drew attention of festival organizers. Very soon they were performing at different lounge bars and at the Paulus Festival in Ostend. They released their first LP with original songs and a few covers called “Black Russian”.
 
 (Projects audio Aphrodizzy)
@@ -152,6 +160,7 @@ For a couple of years Natalia has been a lead singer of a lounge band “Cocktai
 Cover design: Jan-Sebastiaan Degeyter
 
 Kunstbende 2004
+
 Natalia started her journey as a singer by taking part in the local talent competition. She played the piano and sang a cover “How come you don’t call me”. That performance got her straight into the finals. There she encountered other young musicians, photographers, dancers and artists. On that occasion Natalia appeared in the local newspaper Brugsch Handelsblad. This experience motivated Natalia to pursue a career in music.
 
 ![](assets/Projects pic 26.jpg)
