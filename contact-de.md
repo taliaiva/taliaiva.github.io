@@ -15,5 +15,5 @@ Follow me on Facebook: [Talia Iva](https://www.facebook.com/natalia.ivanova.7796
 
 Subscribe to my [YouTube channel](https://www.youtube.com/channel/UCtStp5Cgjl_rVvPUDLvr3Fw?view_as=subscriber)
 
-![](assets/DSC_1246.jpg)
+![](assets/DSC_1348.jpg)
 
