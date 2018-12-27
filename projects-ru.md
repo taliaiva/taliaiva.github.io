@@ -48,11 +48,11 @@ langorder: 2
 
 Летом 2017 года школа танцев «Роза Де Лейн» поставила мюзикл «Красавица и чудовище». Наталья режиссировалa и руководила постановкой песен в мюзикле. Онa с радостью сопровождала и учила молодых танцоров петь и играть на сцене.
 
-![](assets/Projects pic 8.jpg)
+![](assets/Projects pic 8.JPG)
 
-![](assets/Projects pic 9.jpg)
+![](assets/Projects pic 9.JPG)
 
-![](assets/Projects pic 10.jpg)
+![](assets/Projects pic 10.JPG)
 
 
 
