@@ -13,7 +13,7 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 
 Please feel free to subscribe or leave a question in the comment section. You can also send your questions to TaliaIvaVoice@gmail.com. 
 
-(Projects pic 1)
+![](assets/Projects pic 1.jpg)
 
 
 
@@ -24,8 +24,12 @@ On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Na
 
 (Projects radio spot)
 
-(Projects pic 2,3,4) 
-![](assets/KOUTER_GENT OKTOBER 17_2017.jpg)
+![](assets/Projects pic 2.jpg)
+
+![](assets/Projects pic 3.jpg)
+
+![](assets/Projects pic 4.jpg)
+
 
 
 
@@ -33,7 +37,11 @@ Winter concert Castle Leyselebeke 2017
 
 Beautiful classical recital organized at the heart of Sint-Michiels in a gorgeous Castle Leyselebeke. Trio ensemble consisting of Victor Pevernagie, Alexander Declercq and Natalia Ivanova performed art songs, arias and duets from Romantic and Classical period. The program included pieces by Tchaikovsky, Bizet, Strauss, Mozart and Berlioz.
 
-(Projects pic 5,6,7)
+![](assets/Projects pic 5.jpg)
+
+![](assets/Projects pic 6.jpg)
+
+![](assets/Projects pic 7.jpg)
 
 
 Musical Beauty and the Beast 2017
@@ -42,35 +50,38 @@ In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the
 
 (YouTube link to the summer camp performance)
 
-(Projects pic 8,9,10)
+![](assets/Projects pic 9.jpg)
+
+![](assets/Projects pic 10.jpg)
+
 
 
 Rose De Leyn concert 2016
 
 Natalia interpreted “Habanera” by Bizet from the iconic opera “Carmen” at the concert in Rose De Leyn. Natalia was accompanied by Alexander Declercq.
 
-(Projects pic 11,12)
+![](assets/Projects pic 11.jpg)
 
-
+![](assets/Projects pic 12.jpg)
 
 
 Photo shoots with Zoya Victorovna 2016
 
 Zoya and Natalia art directed photo shoots, creating catalogue of clothing designed by Zoya Victorovna. Pictures were inspired by summer glow, beauty of the North Sea, flowers and movie Lady Macbeth.
 
-(Projects pic 13,14,15)
+![](assets/Projects pic 13.jpg)
 
+![](assets/Projects pic 14.jpg)
 
-
-
+![](assets/Projects pic 15.jpg)
 
 
 27 Bflat jazz bar performance 2016
 Natalia performed jazz standards in the tourist heart of Bruges jazz & blues club 27Bflat.
 
 
-(Projects pic 16)
 
+![](assets/Projects pic 16.jpg)
 
 
 
@@ -78,16 +89,14 @@ Natalia performed jazz standards in the tourist heart of Bruges jazz & blues clu
 Dudley Recital Hall concert 2015
 Natalia received a scholarship to participate at the Immanuel and Helen Olshan Texas Music Festival program. The summer program “Le Chiavi di Bel Canto” is held at the University of Houston Moores School of Music. There she got classes in acting and dramatic interpretation, diction, stage movement, dance and body awareness. The faculty consisted of the professionals with years of international experience, such as Melanie Sonnenberg, Nova Thomas, Joseph Evans and Ruth Ann. The program concluded with a beautiful concert at the Dudley Recital Hall in Houston.
 
-(Projects pic 17)
 
-
-
+![](assets/Projects pic 17.jpg)
 
 
 The Ilocano club of Metropolitan Houston 2015
 Natalia performed a wonderful rendition of duet “The Prayer” at the gala dinner event held by the Ilocano club of Metropolitan Houston. The event was staged at the prestigious Hilton Houston Galleria Area Hotel. 
 
-(Projects pic 18)
+![](assets/Projects pic 18.jpg)
 
 
 
@@ -95,7 +104,7 @@ Natalia performed a wonderful rendition of duet “The Prayer” at the gala din
 Chamber music recitals with Lise Cornillie 2014
 Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Together they discovered numerous art song cycles by romantic and 20th - century composers. They performed chamber music repertoire at the various locations across East Flanders and Flemish Brabant in 2013 and 2014. “The Nursery” by M. Mussorgsky, “Five Elizabethan Songs” by I. Gurney, “A charm of Lullabies” and “Cabaret Songs” by B. Britten, “Siete Canciones Populares Espanolas” by M. de Falla are a few examples from their extended list of repertoire.
 
-(Projects pic 19)
+![](assets/Projects pic 19.jpg)
 
 
 
@@ -103,7 +112,7 @@ Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Tog
 Art song concert Luca School of Arts 2013
 Chamber music class of Luca School of Arts performed arts songs from romantic era. Natalia sang “Nun hast du mir den ersten Schmerz getan” from song cycle “Frauen-Liebe und Leben” by Robert Schumann and “Nachtgang” by Richard Strauss. 
 
-(Projects pic 20)
+![](assets/Projects pic 20.jpg)
 
 
 
@@ -113,7 +122,7 @@ Chamber music class of Luca School of Arts performed arts songs from romantic er
 Dido and Aeneas 2011 - 2012
 Two successive years Natalia was engaged in the production of the Baroque opera “Dido and Aeneas” by Henry Purcell. The ensemble was led by conductor Patrick Peire and art director Hugo Segers. Natalia sang in the choir and played two minor roles, namely a drunk sailor and a second witch.
 
-(Projects pic 21)
+![](assets/Projects pic 21.jpg)
 
 
 
@@ -125,7 +134,7 @@ Beautiful classical recital that took place in the Piano Maene concert hall. The
 
 
 
-(Projects pic 22)
+![](assets/Projects pic 22.jpg)
 
 
 
@@ -134,15 +143,19 @@ For a couple of years Natalia has been a lead singer of a lounge band “Cocktai
 
 (Projects audio Aphrodizzy)
 
-(Projects pic 23,24,25)
+![](assets/Projects pic 23.jpg)
 
+![](assets/Projects pic 24.jpg)
 
+![](assets/Projects pic 25.jpg)
 
 
 Kunstbende 2004
 Natalia started her journey as a singer by taking part in the local talent competition. She played the piano and sang a cover “How come you don’t call me”. That performance got her straight into the finals. There she encountered other young musicians, photographers, dancers and artists. On that occasion Natalia appeared in the local newspaper Brugsch Handelsblad. This experience motivated Natalia to pursue a career in music.
 
-(Projects pic 26,27)
+![](assets/Projects pic 26.jpg)
+
+![](assets/Projects pic 27.jpg))
 
 
 
