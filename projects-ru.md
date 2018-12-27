@@ -157,9 +157,9 @@ langorder: 2
 
 (Projects audio Aphrodizzy)
 
-![](assets/Projects pic 23.jpg)
+![](assets/Projects pic 23.JPG)
 
-![](assets/Projects pic 24.jpg)
+![](assets/Projects pic 24.JPG)
 
 ![](assets/Projects pic 25.jpg)
 
