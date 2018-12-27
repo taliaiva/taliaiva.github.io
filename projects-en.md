@@ -143,9 +143,9 @@ For a couple of years Natalia has been a lead singer of a lounge band “Cocktai
 
 (Projects audio Aphrodizzy)
 
-![](assets/Projects pic 23.jpg)
+![](assets/Projects pic 23.JPG)
 
-![](assets/Projects pic 24.jpg)
+![](assets/Projects pic 24.JPG)
 
 ![](assets/Projects pic 25.jpg)
 
