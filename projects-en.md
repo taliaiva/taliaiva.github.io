@@ -48,6 +48,8 @@ Musical Beauty and the Beast 2017
 
 In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the Beast”. Natalia was engaged in the project and directed songs appearing in the musical. It was a joy to instruct and guide young dancers towards a great performance.
 
+![](assets/Projects pic 8.JPG)
+
 ![](assets/Projects pic 9.JPG)
 
 ![](assets/Projects pic 10.JPG)
