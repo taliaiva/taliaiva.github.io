@@ -50,9 +50,9 @@ In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the
 
 (YouTube link to the summer camp performance)
 
-![](assets/Projects pic 9.jpg)
+![](assets/Projects pic 9.JPG)
 
-![](assets/Projects pic 10.jpg)
+![](assets/Projects pic 10.JPG)
 
 
 
@@ -60,9 +60,9 @@ Rose De Leyn concert 2016
 
 Natalia interpreted “Habanera” by Bizet from the iconic opera “Carmen” at the concert in Rose De Leyn. Natalia was accompanied by Alexander Declercq.
 
-![](assets/Projects pic 11.jpg)
+![](assets/Projects pic 11.JPG)
 
-![](assets/Projects pic 12.jpg)
+![](assets/Projects pic 12.JPG)
 
 
 Photo shoots with Zoya Victorovna 2016
@@ -104,7 +104,7 @@ Natalia performed a wonderful rendition of duet “The Prayer” at the gala din
 Chamber music recitals with Lise Cornillie 2014
 Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Together they discovered numerous art song cycles by romantic and 20th - century composers. They performed chamber music repertoire at the various locations across East Flanders and Flemish Brabant in 2013 and 2014. “The Nursery” by M. Mussorgsky, “Five Elizabethan Songs” by I. Gurney, “A charm of Lullabies” and “Cabaret Songs” by B. Britten, “Siete Canciones Populares Espanolas” by M. de Falla are a few examples from their extended list of repertoire.
 
-![](assets/Projects pic 19.jpg)
+![](assets/Projects pic 19.JPG)
 
 
 
