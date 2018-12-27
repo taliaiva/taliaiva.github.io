@@ -7,7 +7,6 @@ lang: ru
 langorder: 2
 ---
 
-Контакт
 
 TaliaIvaVoice@gmail.com
 
