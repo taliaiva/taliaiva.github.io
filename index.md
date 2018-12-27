@@ -19,4 +19,4 @@ This is an official website of Natalia Ivanova, mezzo soprano, vocal coach and c
 
 
 
-![](assets/DSC_1762.jpg)
+![](assets/Welcome Picture.jpg)
