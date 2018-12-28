@@ -20,3 +20,4 @@ This is an official website of Natalia Ivanova, mezzo soprano, vocal coach and c
 
 
 ![](assets/Red dress.jpg)
+Photo Credit: Norbert Moyaert
