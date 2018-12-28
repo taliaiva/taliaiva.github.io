@@ -18,4 +18,4 @@ This is an official website of Natalia Ivanova, mezzo soprano, vocal coach and c
 
 ‘I was a first row witness of her artistic capacities as a brilliant singer’ Godfried Van de Vyvere, professor of singing and conductor
 
-![](assets/Welcome Picture.jpg)
+![](assets/Red dress.jpg)
