@@ -13,4 +13,5 @@ langorder: 3
 
 | <a href="/assets/DSC_2044.jpg">  ![]({{ site.baseurl }}/assets/DSC_2044-thumbnail.jpg) </a> | <a href="/assets/DSC_1962.jpg"> ![]({{ site.baseurl }}/assets/DSC_1962-thumbnail.jpg) </a> | <a href="/assets/DSC_2164.jpg"> ![]({{ site.baseurl }}/assets/DSC_2164-thumbnail.jpg) </a> |
 
+Photo Credit: Dirk Hinderyckx
 
