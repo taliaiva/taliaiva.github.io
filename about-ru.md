@@ -23,4 +23,4 @@ langorder: 2
 
 Скачать резюме нажмите [здесь]({{ site.baseurl }}/assets/CV_ND.pdf).                                           
                                                                                   
-![A bio picture](assets/DSC_1026.jpg)   
+![A bio picture](assets/DSC_1026.jpg) Фотографии предоставлены: Дирком Хендриксом
