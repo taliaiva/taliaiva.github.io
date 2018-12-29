@@ -23,4 +23,4 @@ Download her Master’s Degree [here]({{ site.baseurl }}/assets/Master_EN.jpg).
 
 Download her CV [here]({{ site.baseurl }}/assets/CV_ND.pdf).
 
-![A bio picture](assets/DSC_1026.jpg)
+![A bio picture](assets/DSC_1026.jpg) Photo Credit: Dirk Hinderyckx
