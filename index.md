@@ -20,4 +20,4 @@ This is an official website of Natalia Ivanova, mezzo soprano, vocal coach and c
 
 
 ![](assets/Red Close.jpg)
-Photo Credit: Norbert Moyaert
+Photo Credit: Shannon Langman
