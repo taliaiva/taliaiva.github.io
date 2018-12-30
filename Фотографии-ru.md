@@ -3,7 +3,7 @@ layout: page
 title: Galerie
 menuorder: 7
 lang: ru
-ref: pictures
+ref: Фотографии
 langorder: 2
 ---
 
