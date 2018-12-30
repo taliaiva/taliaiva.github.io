@@ -3,7 +3,7 @@ layout: page
 title: Contact
 menuorder: 6
 ref: contact
-lang: nl
+lang: de
 langorder: 3
 ---
 
