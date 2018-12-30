@@ -19,4 +19,4 @@ Dit is een officiële website van Natalia Ivanova, mezzosopraan, vocale coach en
 'Ik was een eerste rij getuige van haar artistieke capaciteiten als een briljante zangeres' Godfried Van de Vyvere, dirigent van Acantus koor
 
 ![](assets/Red Close.jpg)
-Photo Credit: Shannon Langman
+Foto door Shannon Langman
