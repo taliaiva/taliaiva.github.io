@@ -3,7 +3,7 @@ layout: page
 title: Видео
 menuorder: 5
 lang: ru
-ref: Видео
+ref: видео
 langorder: 2
 ---
 
