@@ -11,7 +11,7 @@ langorder: 3
 
 Stem Coaching 2018
 
-Natalia heeft een YouTube kanaal gemaakt waarop ze haar ervaring in verband met de stem ontwikkeling deelt. Daar kan u verschillende oefeningen vinden die uw stem helpen vormen. Onderwerpen zoals ademsteun, projectie, vocale mix, levensstijl, fysieke oefeningen en andere hulpmiddelen, die nodig zijn om zangers te helpen op hun zoektocht naar de vocale vrijheid, worden besproken.
+Natalia heeft een YouTube kanaal gemaakt waarop ze over de stem ontwikkeling vertelt. Daar kan u verschillende oefeningen vinden die uw stem helpen ontwikkelen. Onderwerpen zoals ademsteun, projectie, vocale mix, levensstijl, fysieke oefeningen en andere hulpmiddelen, die nodig zijn om zangers te helpen met hun zoektocht naar de vocale vrijheid, worden besproken.
 
 Aarzel niet om je te abonneren of om een vraag achter te laten in het commentaargedeelte. U kunt uw vragen ook naar TaliaIvaVoice@gmail.com sturen. 
 
