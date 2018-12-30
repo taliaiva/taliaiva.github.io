@@ -71,13 +71,14 @@ Zoya en Natalia hebben aan de artistieke foto’s gewerkt. Ze creëerden een cat
 ![](assets/Projects pic 14.jpg)
 
 ![](assets/Projects pic 15.jpg)
-Photos Credit: Zoya Victorovna
+Foto's door Zoya Victorovna
 
 27 Bflat club 2016
 
 Natalia voerde jazzstandaarden uit in het toeristisch hart van Brugge in de jazz club 27Bflat
 
-![](assets/Projects pic 16.jpg) Foto door Koen de Smet
+![](assets/Projects pic 16.jpg)
+Foto door Koen de Smet
 
 Dudley Recital Hall concert 2015
 
