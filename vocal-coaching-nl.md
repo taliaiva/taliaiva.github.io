@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Zang Coaching"
+title: "Vocal Coaching"
 menuorder: 4
-ref: zang coaching
+ref: vocal coaching
 lang: nl
 langorder: 3
 ---
