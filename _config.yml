@@ -90,8 +90,8 @@ home:
       url: "/index.html"
   ru:
     home:
-      url: "index-ru.html"
+      url: "/index-ru.html"
   
   nl 
     home:
-      url: "index-nl.html"
+      url: "/index-nl.html"
