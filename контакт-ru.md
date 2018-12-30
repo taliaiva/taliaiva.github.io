@@ -2,7 +2,7 @@
 layout: page
 title: Контакт
 menuorder: 6
-ref: Контакт
+ref: контакт
 lang: ru
 langorder: 2
 ---
