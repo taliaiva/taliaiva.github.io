@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Биография
 menuorder: 2
 lang: ru
 ref: about
