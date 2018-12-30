@@ -23,4 +23,4 @@ Download haar Master in de Muziek [hier]({{ site.baseurl }}/assets/Master_Nl.jpg
 
 Download haar CV [hier]({{ site.baseurl }}/assets/CV_ND.pdf).                                  
                                                                                    
-![A bio picture](assets/DSC_1026.jpg) Photo Credit: Dirk Hinderyckx
+![A bio picture](assets/DSC_1026.jpg) Foto door Dirk Hinderyckx
