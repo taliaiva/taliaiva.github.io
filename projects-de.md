@@ -89,18 +89,14 @@ Natalia kreeg een studiebeurs om deel te nemen aan het Immanuel en Helen Olshan 
 ![](assets/Projects pic 17.jpg)
 
 
-The Ilocano club of Metropolitan Houston 2015
-
-Natalia performed a wonderful rendition of duet “The Prayer” at the gala dinner event held by the Ilocano club of Metropolitan Houston. The event was staged at the prestigious Hilton Houston Galleria Area Hotel. 
+De Ilocano club van Metropolitan Houston 2015
+Natalia bracht een mooie vertolking uit van duet "The Prayer" tijdens het galadiner evenement van de Ilocano-club van Metropolitan Houston. Het evenement werd gehouden in het prestigieuze Hilton Houston Galleria Area Hotel.
 
 ![](assets/Projects pic 18.jpg)
 
+Kamermuziek recitals met Lise Cornillie 2014
 
-
-
-Chamber music recitals with Lise Cornillie 2014
-
-Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Together they discovered numerous art song cycles by romantic and 20th - century composers. They performed chamber music repertoire at the various locations across East Flanders and Flemish Brabant in 2013 and 2014. “The Nursery” by M. Mussorgsky, “Five Elizabethan Songs” by I. Gurney, “A charm of Lullabies” and “Cabaret Songs” by B. Britten, “Siete Canciones Populares Espanolas” by M. de Falla are a few examples from their extended list of repertoire.
+Lise en Natalia vormden een vruchtbare samenwerking op de Luca School of Arts. Samen ontdekten ze talrijke cycli van kunstliederen van de romantische en 20e-eeuwse componisten. Ze voerden kamermuziekrepertoire uit op de verschillende locaties in Oost-Vlaanderen en Vlaams-Brabant in 2013 en 2014. "The Nursery" van M. Mussorgsky, "Five Elizabethan Songs" van I. Gurney, "A charm of Lullabies" and "Cabaret Songs" van B. Britten, "Siete Canciones Populares Espanolas" van M. de Falla zijn een paar voorbeelden uit hun uitgebreide lijst van repertoire.
 
 ![](assets/Projects pic 19.JPG)
 
