@@ -87,10 +87,10 @@ t:
 home:
   en:
     home:    
-      url: "/index-en.html"
+      url: "/Home-en.html"
   ru:
     home:
-      url: "index-ru.html"
+      url: "Главная-ru.html"
   nl:
     home:
-      url: "index-nl.html"
+      url: "Home-nl.html"
