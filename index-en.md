@@ -2,7 +2,7 @@
 layout: page
 title: Home
 menuorder: 1
-ref: home
+ref: index
 lang: en
 langorder: 1
 ---
