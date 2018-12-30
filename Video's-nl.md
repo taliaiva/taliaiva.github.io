@@ -3,7 +3,7 @@ layout: page
 title: Video's
 menuorder: 5
 lang: de
-ref: video
+ref: video's
 langorder: 3
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBYwaSPVU6Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
