@@ -9,9 +9,11 @@ langorder: 3
 
 ![](assets/BANNER YOUTUBE Vocal coaching.png)
 
-Natalia has created YouTube channel where she shares her experience in vocal development. There you can find various exercises that shape and balance your voice. Topics like breath support, projection, vocal mix, lifestyle, physical exercises and other tools necessary to help singers on their journey to the vocal freedom are being discussed. 
+Stem Coaching 2018
 
-Please feel free to subscribe or leave a question in the comment section. You can also send your questions to TaliaIvaVoice@gmail.com.
+Natalia heeft een YouTube kanaal gemaakt waarop ze haar ervaring in verband met de stem ontwikkeling deelt. Daar kan u verschillende oefeningen vinden die uw stem helpen vormen. Onderwerpen zoals ademsteun, projectie, vocale mix, levensstijl, fysieke oefeningen en andere hulpmiddelen, die nodig zijn om zangers te helpen op hun zoektocht naar de vocale vrijheid, worden besproken.
+
+Aarzel niet om je te abonneren of om een vraag achter te laten in het commentaargedeelte. U kunt uw vragen ook naar TaliaIvaVoice@gmail.com sturen. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKi71AN3mgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
