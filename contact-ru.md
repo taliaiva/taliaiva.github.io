@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Контакт
+title: Contact
 menuorder: 6
-ref: контакт
+ref: contact
 lang: ru
 langorder: 2
 ---
