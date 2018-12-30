@@ -19,7 +19,7 @@ Klik hier voor meer informatie over haar artistieke projecten.
 
 Download haar Repertoire [hier]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 
-Download haar Master’s Degree [hier]({{ site.baseurl }}/assets/Master_Nl.jpg).
+Download haar Master in de Muziek [hier]({{ site.baseurl }}/assets/Master_ND.jpg).
 
 Download haar CV [hier]({{ site.baseurl }}/assets/CV_ND.pdf).                                  
                                                                                    
