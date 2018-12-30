@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Главная
 menuorder: 1
 ref: home
 lang: ru
