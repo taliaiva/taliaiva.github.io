@@ -6,17 +6,17 @@ lang: de
 langorder: 3
 ---
 
-Welcome to www.TaliaIva.com
+Welkom bij www.TaliaIva.com
 
-This is an official website of Natalia Ivanova, mezzo soprano, vocal coach and creative mind.
+Dit is een officiële website van Natalia Ivanova, mezzosopraan, vocale coach en creatieve geest.
 
-‘Natalia has an instinctive and natural gift for interpretation’ Ronny Lauwers, former director of International Opera Academy of Ghent
+'Natalia heeft een instinctieve en natuurlijke gave voor interpretatie' Ronny Lauwers, voormalig directeur van de Internationale Opera Academie van Gent
 
-‘Her mezzo soprano voice is well developed and she is a gifted musician and performer’ Dina Grossberger, professor of singing Luca School of Arts
+'Haar mezzosopraan stem is goed ontwikkeld en zij is een begaafd muzikant en performer' Dina Grossberger, voormalige docente zang aan de Luca School of Arts
 
-‘Natalia showed a beautiful musicianship, a great podium presence, eagerness to learn and engagement towards her partners’ Christel Kessels, professor Chamber Music at Luca School of Arts
+'Natalia toonde een prachtig muzikaal vakmanschap, een geweldige podiumpresentie, leergierigheid en betrokkenheid bij haar partners' Christel Kessels, docente kamermuziek aan de Luca School of Arts
 
-‘I was a first row witness of her artistic capacities as a brilliant singer’ Godfried Van de Vyvere, professor of singing and conductor
+'Ik was een eerste rij getuige van haar artistieke capaciteiten als een briljante zangeres' Godfried Van de Vyvere, dirigent van Acantus koor
 
 ![](assets/Red Close.jpg)
 Photo Credit: Shannon Langman
