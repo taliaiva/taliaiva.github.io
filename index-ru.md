@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Главная
+title: Home
 menuorder: 1
-ref: главная
+ref: index
 lang: ru
 langorder: 2
 ---
