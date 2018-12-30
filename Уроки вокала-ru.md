@@ -2,7 +2,7 @@
 layout: page
 title: "Уроки вокала"
 menuorder: 4
-ref: vocal-coaching
+ref: Уроки вокала
 lang: ru
 langorder: 2
 ---
