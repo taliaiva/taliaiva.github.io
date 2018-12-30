@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vocal coaching"
+title: "Уроки вокала"
 menuorder: 4
 ref: vocal-coaching
 lang: ru
