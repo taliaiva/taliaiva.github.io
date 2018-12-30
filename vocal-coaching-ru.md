@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Уроки вокала"
+title: "Vocal coaching"
 menuorder: 4
-ref: уроки вокала
+ref: vocal coaching
 lang: ru
 langorder: 2
 ---
