@@ -2,7 +2,7 @@
 layout: page
 title: Projecten
 menuorder: 4
-ref: Projecten
+ref: projecten
 lang: nl
 langorder: 3
 ---
