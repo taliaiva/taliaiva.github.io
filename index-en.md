@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
 menuorder: 1
 ref: index
 lang: en
