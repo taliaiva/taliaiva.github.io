@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Home
 menuorder: 1
 ref: home
-lang: de
+lang: nl
 langorder: 3
 ---
 
