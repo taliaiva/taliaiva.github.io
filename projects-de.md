@@ -8,7 +8,7 @@ langorder: 3
 ---
 
 
-Stem Coaching 2018
+Zang Coaching 2018
 
 Natalia heeft een YouTube kanaal gemaakt waarop ze over de stem ontwikkeling vertelt. Daar kan u verschillende oefeningen vinden die uw stem helpen ontwikkelen. Onderwerpen zoals ademsteun, projectie, vocale mix, levensstijl, fysieke oefeningen en andere hulpmiddelen, die nodig zijn om zangers te helpen met hun zoektocht naar de vocale vrijheid, worden besproken.
 
