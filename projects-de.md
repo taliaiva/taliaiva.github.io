@@ -106,33 +106,23 @@ Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Tog
 
 
 
+Liedklas concert Luca School of Arts 2013
 
-Art song concert Luca School of Arts 2013
-
-Chamber music class of Luca School of Arts performed arts songs from romantic era. Natalia sang “Nun hast du mir den ersten Schmerz getan” from song cycle “Frauen-Liebe und Leben” by Robert Schumann and “Nachtgang” by Richard Strauss. 
+Liedklas van de Luca School of Arts heeft kunstliederen uit het romantische tijdperk uitgevoerd. Het concert beeldde een volledige levensloop van een vrouw uit. Natalia zong "Nun hast du mir den ersten Schmerz getan" uit liederencyclus "Frauen-Liebe und Leben" van Robert Schumann en "Nachtgang" van Richard Strauss. 
 
 ![](assets/Projects pic 20.jpg)
 
 
-
-
-
-
 Dido and Aeneas 2011 - 2012
 
-Two successive years Natalia was engaged in the production of the Baroque opera “Dido and Aeneas” by Henry Purcell. The ensemble was led by conductor Patrick Peire and art director Hugo Segers. Natalia sang in the choir and played two minor roles, namely a drunk sailor and a second witch.
+Twee opeenvolgende jaren Natalia was betrokken bij de productie van de barok opera "Dido and Aeneas" van Henry Purcell. Het ensemble werd geleid door dirigent Patrick Peire en regisseur Hugo Segers. Natalia zong in het koor en vertolkte twee rollen, namelijk een dronken zeeman en een tweede heks.
 
 ![](assets/Projects pic 21.jpg)
 
 
+Recital bij Piano’s Maene in Brussels 2010
 
-
-
-
-Recital at Pianos Maene in Brussels 2010
-
-Beautiful classical recital that took place in the Piano Maene concert hall. The program included art songs and arias by Nikolai Rimsky-Korsakov, Franz Lehar and Jacques Offenbach. Natalia was accompanied by a talented pianist Peter Jeurissen.
-
+Mooi klassiek recital dat vond plaats in het Piano’s Maene concert ruimte. Het programma bestond uit kunstliederen en aria's van Nikolai Rimsky-Korsakov, Franz Lehar en Jacques Offenbach. Natalia werd begeleid door een getalenteerde pianist Peter Jeurissen.
 
 
 ![](assets/Projects pic 22.jpg)
@@ -141,7 +131,7 @@ Beautiful classical recital that took place in the Piano Maene concert hall. The
 
 Cocktail dress 2007-2009
 
-For a couple of years Natalia has been a lead singer of a lounge band “Cocktail Dress”. The band consisted of percussion, vocals, electric guitar and bass guitar. They created unique sound and original songs that drew attention of festival organizers. Very soon they were performing at different lounge bars and at the Paulus Festival in Ostend. They released their first LP with original songs and a few covers called “Black Russian”.
+Gedurende een aantal jaar Natalia was een leadzangeres van een lounge band "Cocktail Dress". De band bestond uit percussie, zang, elektrische gitaar en basgitaar. Ze hadden een unieke sound die de aandacht trok van de festivalorganisators. Al snel speelden ze in verschillende loungebars en op het Paulus Festival in Oostende. Ze brachten hun eerste demo CD uit met originele nummers en een aantal covers genaamd "Black Russian".
 
 (Projects audio Aphrodizzy)
 
