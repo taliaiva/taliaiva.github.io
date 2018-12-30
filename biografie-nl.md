@@ -3,7 +3,7 @@ layout: page
 title: Biografie
 menuorder: 2
 lang: nl
-ref: Biografie
+ref: biografie
 langorder: 3
 ---
 
