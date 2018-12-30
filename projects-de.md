@@ -7,19 +7,20 @@ lang: de
 langorder: 3
 ---
 
-Vocal Coaching 2018
 
-Natalia has created YouTube channel where she shares her experience in vocal development. There you can find various exercises that shape and balance your voice. Topics like breath support, projection, vocal mix, lifestyle, physical exercises and other tools necessary to help singers on their journey to the vocal freedom are being discussed. 
+Stem Coaching 2018
 
-Please feel free to subscribe or leave a question in the comment section. You can also send your questions to TaliaIvaVoice@gmail.com. 
+Natalia heeft een YouTube kanaal gemaakt waarop ze haar ervaring in verband met de stem ontwikkeling deelt. Daar kan u verschillende oefeningen vinden die uw stem helpen vormen. Onderwerpen zoals ademsteun, projectie, vocale mix, levensstijl, fysieke oefeningen en andere hulpmiddelen die nodig zijn om zangers te helpen op hun zoektocht naar de vocale vrijheid worden besproken.
+
+Aarzel niet om je te abonneren of een vraag achter te laten in het commentaargedeelte. U kunt uw vragen ook sturen naar TaliaIvaVoice@gmail.com. 
+ 
 
 ![](assets/Projects pic 1.jpg)
 
 
+Viering van het jubileum van Handelsbeurs 2017
 
-Concert Hall Handelsbeurs 2017
-
-On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Natalia got an opportunity to take part in the Russian festival organized by CirQ at the main square Kouter in Gent. There she sang Russian folk songs accompanied by pianist Mike Julien. On that occasion she was also invited to record a promotional radio spot on radio 1 in Belgium.
+Op 17 oktober vierde het Handelsbeurs hun 15e verjaardag. Natalia kreeg de gelegenheid om deel te nemen aan het Russisch festival georganiseerd door het productiehuis CirQ op Kouter in Gent. Daar zong ze Russische volksliederen begeleid door pianist Mike Julien. Bij deze gelegenheid werd ze ook uitgenodigd om een promotie spot op radio 1 op te nemen.
 
 
 (Handelsbeurs 15 mp3)
@@ -31,11 +32,10 @@ On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Na
 ![](assets/Projects pic 4.jpg)
 
 
+Winterconcert Kasteel Leyselebeke 2017
 
+Prachtig klassiek recital georganiseerd in het hart van Sint-Michiels in een prachtig kasteel Leyselebeke. Trio-ensemble bestaande uit Victor Pevernagie, Alexander Declercq en Natalia Ivanova voerden kunstliederen, aria's en duetten uit de romantische en klassieke periode. Het programma bevatte stukken van Tsjaikovski, Bizet, Strauss, Mozart en Berlioz.
 
-Winter concert Castle Leyselebeke 2017
-
-Beautiful classical recital organized at the heart of Sint-Michiels in a gorgeous Castle Leyselebeke. Trio ensemble consisting of Victor Pevernagie, Alexander Declercq and Natalia Ivanova performed art songs, arias and duets from Romantic and Classical period. The program included pieces by Tchaikovsky, Bizet, Strauss, Mozart and Berlioz.
 
 ![](assets/Projects pic 5.jpg)
 
@@ -44,9 +44,9 @@ Beautiful classical recital organized at the heart of Sint-Michiels in a gorgeou
 ![](assets/Projects pic 7.jpg)
 
 
-Musical Beauty and the Beast 2017
+Musical "Belle en het Beest" 2017
 
-In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the Beast”. Natalia was engaged in the project and directed songs appearing in the musical. It was a joy to instruct and guide young dancers towards a great performance.
+In de zomer van 2017 voerde dansschool Rose De Leyn musical "Belle en het Beest" uit. Natalia was betrokken bij het project en regisseerde liedjes die in de musical verschenen. Het was een genoegen om jonge dansers te begeleiden naar een geweldige uitvoering.
 
 
 ![](assets/Projects pic 8.JPG)
@@ -56,19 +56,18 @@ In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the
 ![](assets/Projects pic 10.JPG)
 
 
+Concert in de Rose De Leyn 2016
 
-Rose De Leyn concert 2016
+Natalia interpreteerde "Habanera" van Bizet uit de bekende opera "Carmen". Tijdens het concert werd Natalia begeleid door Alexander Declercq. 
 
-Natalia interpreted “Habanera” by Bizet from the iconic opera “Carmen” at the concert in Rose De Leyn. Natalia was accompanied by Alexander Declercq.
 
 ![](assets/Projects pic 11.JPG)
 
 ![](assets/Projects pic 12.JPG)
 
+Fotosessies met Zoya Victorovna 2016
 
-Photo shoots with Zoya Victorovna 2016
-
-Zoya and Natalia art directed photo shoots, creating catalogue of clothing designed by Zoya Victorovna. Pictures were inspired by summer glow, beauty of the North Sea, flowers and movie Lady Macbeth.
+Zoya en Natalia hebben aan de artistieke foto’s gewerkt. Ze creëerden een catalogus van kleding ontworpen door Zoya Victorovna. Foto's werden geïnspireerd door de zomergloed, schoonheid van de Noordzee, bloemen en film Lady Macbeth.
 
 ![](assets/Projects pic 13.jpg)
 
@@ -77,21 +76,18 @@ Zoya and Natalia art directed photo shoots, creating catalogue of clothing desig
 ![](assets/Projects pic 15.jpg)
 Photos Credit: Zoya Victorovna
 
-27 Bflat jazz bar performance 2016
-Natalia performed jazz standards in the tourist heart of Bruges jazz & blues club 27Bflat.
+27 Bflat club 2016
 
-
+Natalia voerde jazzstandaarden uit in het toeristisch hart van Brugge in de jazz club 27Bflat
 
 ![](assets/Projects pic 16.jpg)
 
-Photo Credit: Koen
-
-
+Foto door Koen de Smet
 
 Dudley Recital Hall concert 2015
 
-Natalia received a scholarship to participate at the Immanuel and Helen Olshan Texas Music Festival program. The summer program “Le Chiavi di Bel Canto” is held at the University of Houston Moores School of Music. There she got classes in acting and dramatic interpretation, diction, stage movement, dance and body awareness. The faculty consisted of the professionals with years of international experience, such as Melanie Sonnenberg, Nova Thomas, Joseph Evans and Ruth Ann. The program concluded with a beautiful concert at the Dudley Recital Hall in Houston.
-
+Natalia kreeg een studiebeurs om deel te nemen aan het Immanuel en Helen Olshan Texas Music Festivalprogramma. Het zomerprogramma "Le Chiavi di Bel Canto" wordt gehouden aan de Universiteit van Houston in de Moores School of Music. Daar kreeg ze lessen in acteren en dramatische interpretatie, dictie, podiumbewegingen, dans- en lichaamsbewustzijn. De faculteit bestond uit professionele zangers met jarenlange internationale ervaring, zoals Melanie Sonnenberg, Nova Thomas, Joseph Evans en Ruth Ann. Het programma werd afgesloten met een prachtig concert in de Dudley Recital Hall in Houston.
+ert 2015
 
 ![](assets/Projects pic 17.jpg)
 
