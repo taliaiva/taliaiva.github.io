@@ -2,7 +2,7 @@
 layout: page
 title: "Уроки вокала"
 menuorder: 4
-ref: Уроки вокала
+ref: уроки вокала
 lang: ru
 langorder: 2
 ---
