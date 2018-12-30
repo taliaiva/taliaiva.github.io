@@ -150,11 +150,11 @@ For a couple of years Natalia has been a lead singer of a lounge band “Cocktai
 ![](assets/Projects pic 24.JPG)
 
 ![](assets/Projects pic 25.jpg)
-Cover design: Jan-Sebastiaan Degeyter
+Omslag ontworpen door Jan-Sebastiaan Degeyter
 
 Kunstbende 2004
 
-Natalia started her journey as a singer by taking part in the local talent competition. She played the piano and sang a cover “How come you don’t call me”. That performance got her straight into the finals. There she encountered other young musicians, photographers, dancers and artists. On that occasion Natalia appeared in the local newspaper Brugsch Handelsblad. This experience motivated Natalia to pursue a career in music.
+Natalia begon haar zangcarrière door deel te nemen aan de lokale talentenjacht “Kunstbende”. Ze speelde piano en zong een cover "How come you don’t call me". Met veel lof van de juryleden bereikte ze de finale. Daar ontmoette ze andere jonge muzikanten, fotografen, dansers en kunstenaars. Natalia is verschenen in de plaatselijke krant Brugsch Handelsblad. Dit positieve ervaring heeft Natalia ertoe aangezet om haar zangcarrière voort te zetten.
 
 ![](assets/Projects pic 26.jpg)
 
