@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vidéos
+title: Видео
 menuorder: 5
 lang: ru
 ref: video
