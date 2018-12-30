@@ -2,7 +2,7 @@
 layout: page
 title: Главная
 menuorder: 1
-ref: Главная
+ref: главная
 lang: ru
 langorder: 2
 ---
