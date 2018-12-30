@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Video's
+title: Video
 menuorder: 5
 lang: nl
-ref: video's
+ref: video
 langorder: 3
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBYwaSPVU6Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
