@@ -43,7 +43,7 @@ Mooi klassiek recital georganiseerd in het hart van Sint-Michiels in een prachti
 
 Musical "Belle en het Beest" 2017
 
-In de zomer van 2017 voerde dansschool Rose De Leyn musical "Belle en het Beest" uit. Natalia was deed meet aan het project en regisseerde liedjes die in de musical verschenen. Het was een genoegen om jonge dansers naar een geweldige uitvoering te begeleiden.
+In de zomer van 2017 voerde dansschool Rose De Leyn musical "Belle en het Beest" uit. Natalia deed mee aan dat project en regisseerde liedjes die in de musical verschenen. Het was een genoegen om jonge dansers naar een geweldige uitvoering te begeleiden.
 
 
 ![](assets/Projects pic 8.JPG)
