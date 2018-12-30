@@ -46,51 +46,51 @@ t:
       url: "/contact-en.html"
   ru:
     about:
-      name: "About"
+      name: "Биография"
       url: "/about-ru.html"
     pictures:
-      name: "Pictures"
+      name: "Фотографии"
       url: "/pictures-ru.html"
     video:
-      name: "Video"
+      name: "Видео"
       url: "/video-ru.html"
     vocal-coaching:
-      name: "Vocal Coaching"
+      name: "Уроки вокала"
       url: "/vocal-coaching-ru.html"
     projects:
-      name: "Projects"
+      name: "Проекты"
       url: "/projects-ru.html"
     contact:
       name: "Contact"
       url: "/contact-ru.html"
-  de:
+  nl:
     about:
-      name: "About"
-      url: "/about-de.html"
+      name: "Biografie"
+      url: "/about-nl.html"
     pictures:
-      name: "Pictures"
-      url: "/pictures-de.html"
+      name: "Foto’s"
+      url: "/pictures-nl.html"
     video:
-      name: "Video"
-      url: "/video-de.html"
+      name: "Video’s"
+      url: "/video-nl.html"
     vocal-coaching:
-      name: "Vocal Coaching"
-      url: "/vocal-coaching-de.html"
+      name: "Zang Coaching"
+      url: "/vocal-coaching-nl.html"
     projects:
-      name: "Projects"
-      url: "/projects-de.html"
+      name: "Projecten"
+      url: "/projects-nl.html"
     contact:
       name: "Contact"
-      url: "/contact-de.html"
+      url: "/contact-nl.html"
 
 
 home:
   en:
     home:    
-      url: "/index.html"
+      url: "/index-en.html"
   ru:
     home:
       url: "index-ru.html"
-  de:
+  nl:
     home:
-      url: "index-de.html"
+      url: "index-nl.html"
