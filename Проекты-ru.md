@@ -2,7 +2,7 @@
 layout: page
 title: Проекты
 menuorder: 4
-ref: projects
+ref: Проекты
 lang: ru
 langorder: 2
 ---
