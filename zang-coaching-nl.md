@@ -2,7 +2,7 @@
 layout: page
 title: "Zang Coaching"
 menuorder: 4
-ref: Zang Coaching
+ref: zang coaching
 lang: nl
 langorder: 3
 ---
