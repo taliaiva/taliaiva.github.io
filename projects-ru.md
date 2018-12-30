@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Проекты
 menuorder: 4
 ref: projects
 lang: ru
