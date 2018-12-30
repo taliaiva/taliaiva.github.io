@@ -3,7 +3,7 @@ layout: page
 title: Home
 menuorder: 1
 ref: index
-lang: nl
+lang: de
 langorder: 3
 ---
 
