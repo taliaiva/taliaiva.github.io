@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Projects
+title: Projecten
 menuorder: 4
 ref: projects
-lang: de
+lang: nl
 langorder: 3
 ---
 
