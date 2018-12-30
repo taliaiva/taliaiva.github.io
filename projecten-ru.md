@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Проекты
+title: Projecten
 menuorder: 4
-ref: проекты
+ref: projecten
 lang: ru
 langorder: 2
 ---
