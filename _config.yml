@@ -47,41 +47,41 @@ t:
   ru:
     about:
       name: "Биография"
-      url: "/Биография-ru.html"
+      url: "/биография-ru.html"
     pictures:
       name: "Фотографии"
-      url: "/Фотографии-ru.html"
+      url: "/фотографии-ru.html"
     video:
       name: "Видео"
-      url: "/Видео-ru.html"
+      url: "/видео-ru.html"
     vocal-coaching:
       name: "Уроки вокала"
-      url: "/Уроки вокала.html"
+      url: "/уроки-вокала.html"
     projects:
       name: "Проекты"
-      url: "/Проекты-ru.html"
+      url: "/проекты-ru.html"
     contact:
       name: "Контакт"
-      url: "/Контакт-ru.html"
+      url: "/контакт-ru.html"
   nl:
     about:
       name: "Biografie"
-      url: "/Biografie-nl.html"
+      url: "/biografie-nl.html"
     pictures:
       name: "Foto’s"
-      url: "/Foto’s-nl.html"
+      url: "/foto’s-nl.html"
     video:
       name: "Video’s"
-      url: "/Video’s-nl.html"
+      url: "/video’s-nl.html"
     vocal-coaching:
       name: "Zang Coaching"
-      url: "/Zang Coaching-nl.html"
+      url: "/zang-coaching-nl.html"
     projects:
       name: "Projecten"
-      url: "/Projecten-nl.html"
+      url: "/projecten-nl.html"
     contact:
       name: "Contact"
-      url: "/Contact-nl.html"
+      url: "/contact-nl.html"
 
 
 home:
