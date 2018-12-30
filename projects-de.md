@@ -88,6 +88,7 @@ Natalia kreeg een studiebeurs om deel te nemen aan het Immanuel en Helen Olshan 
 
 
 De Ilocano club van Metropolitan Houston 2015
+
 Natalia bracht een mooie vertolking uit van duet "The Prayer" tijdens het galadiner evenement van de Ilocano-club van Metropolitan Houston. Het evenement werd gehouden in het prestigieuze Hilton Houston Galleria Area Hotel.
 
 ![](assets/Projects pic 18.jpg)
