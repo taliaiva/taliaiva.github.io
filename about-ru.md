@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Биография
+title: About
 menuorder: 2
 lang: ru
-ref: биография
+ref: about
 langorder: 2
 ---
 
