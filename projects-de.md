@@ -77,9 +77,7 @@ Photos Credit: Zoya Victorovna
 
 Natalia voerde jazzstandaarden uit in het toeristisch hart van Brugge in de jazz club 27Bflat
 
-![](assets/Projects pic 16.jpg)
-
-Foto door Koen de Smet
+![](assets/Projects pic 16.jpg) Foto door Koen de Smet
 
 Dudley Recital Hall concert 2015
 
