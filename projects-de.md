@@ -81,7 +81,7 @@ Natalia voerde jazzstandaarden uit in het toeristisch hart van Brugge in de jazz
 
 Dudley Recital Hall concert 2015
 
-Natalia kreeg een studiebeurs om deel te nemen aan het Immanuel en Helen Olshan Texas Music Festivalprogramma. Het zomerprogramma "Le Chiavi di Bel Canto" wordt gehouden aan de Universiteit van Houston in de Moores School of Music. Daar kreeg ze lessen in acteren en dramatische interpretatie, dictie, podiumbewegingen, dans- en lichaamsbewustzijn. De faculteit bestond uit professionele zangers met jarenlange internationale ervaring, zoals Melanie Sonnenberg, Nova Thomas, Joseph Evans en Ruth Ann. Het programma werd afgesloten met een prachtig concert in de Dudley Recital Hall in Houston.
+Natalia kreeg een studiebeurs om deel te nemen aan het Immanuel en Helen Olshan Texas Music Festivalprogramma. Het zomerprogramma "Le Chiavi di Bel Canto" werd gehouden aan de Universiteit van Houston in de Moores School of Music. Daar kreeg ze lessen in acteren en dramatische interpretatie, dictie, podiumbewegingen, dans- en lichaamsbewustzijn. De faculteit bestond uit professionele zangers met jarenlange internationale ervaring, zoals Melanie Sonnenberg, Nova Thomas, Joseph Evans en Ruth Ann. Het programma werd afgesloten met een prachtig concert in de Dudley Recital Hall in Houston.
 
 
 ![](assets/Projects pic 17.jpg)
