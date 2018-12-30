@@ -3,7 +3,7 @@ layout: page
 title: Биография
 menuorder: 2
 lang: ru
-ref: Биография
+ref: биография
 langorder: 2
 ---
 
