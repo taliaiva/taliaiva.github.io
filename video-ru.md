@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Видео
+title: Video
 menuorder: 5
 lang: ru
-ref: видео
+ref: video
 langorder: 2
 ---
 
