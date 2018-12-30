@@ -32,7 +32,7 @@ Op 17 oktober vierde het Handelsbeurs hun 15e verjaardag. Natalia kreeg de geleg
 
 Winterconcert Kasteel Leyselebeke 2017
 
-Prachtig klassiek recital georganiseerd in het hart van Sint-Michiels in een prachtig kasteel Leyselebeke. Trio-ensemble bestaande uit Victor Pevernagie, Alexander Declercq en Natalia Ivanova voerden kunstliederen, aria's en duetten uit de romantische en klassieke periode. Het programma bevatte stukken van Tsjaikovski, Bizet, Strauss, Mozart en Berlioz.
+Mooi klassiek recital georganiseerd in het hart van Sint-Michiels in een prachtig kasteel Leyselebeke. Trio-ensemble bestaande uit Victor Pevernagie, Alexander Declercq en Natalia Ivanova voerden kunstliederen, aria's en duetten uit de romantische en klassieke periode. Het programma bevatte stukken van Tsjaikovski, Bizet, Strauss, Mozart en Berlioz.
 
 
 ![](assets/Projects pic 5.jpg)
