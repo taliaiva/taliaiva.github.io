@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Фотографии
+title: Gallery
 menuorder: 7
 lang: ru
-ref: фотографии
+ref: pictures
 langorder: 2
 ---
 
