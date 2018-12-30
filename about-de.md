@@ -2,7 +2,7 @@
 layout: page
 title: About
 menuorder: 2
-lang: nl
+lang: de
 ref: about
 langorder: 3
 ---
