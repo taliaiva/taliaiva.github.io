@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Biografie
 menuorder: 2
-lang: de
+lang: nl
 ref: about
 langorder: 3
 ---
