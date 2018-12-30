@@ -55,7 +55,7 @@ In de zomer van 2017 voerde dansschool Rose De Leyn musical "Belle en het Beest"
 
 Concert in de Rose De Leyn 2016
 
-Natalia interpreteerde "Habanera" van Bizet uit de bekende opera "Carmen". Tijdens het concert werd Natalia begeleid door Alexander Declercq. 
+Natalia interpreteerde "Habanera" van Bizet uit de bekende opera "Carmen". Tijdens het concert werd Natalia door Alexander Declercq op de piano begeleid.
 
 
 ![](assets/Projects pic 11.JPG)
