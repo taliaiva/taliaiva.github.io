@@ -7,20 +7,20 @@ ref: about
 langorder: 3
 ---
 
-Natalia Ivanova is a Belgian lyric mezzo soprano. Alongside to an extensive vocal range Natalia possesses a remarkable musicality and a solid vocal technique. Her high notes are buoyant and radiant whereas her middle register has a creamy caramel like quality. Operatic roles that suit her voice and personality well are Carmen (Carmen), Charlotte (Werther), Marguerite (La damnation de Faust) and various trouser roles like Cherubino (Le Nozze di Figaro), Urbain (Les Huguenots) or Annio (La clemenza di Tito).
+Natalia Ivanova is een Belgische lyrische mezzosopraan. Natalia beschikt over een uitgebreid vocaal bereik, natuurlijke muzikaliteit en een solide vocale techniek. Haar hoge noten zijn stralend, terwijl haar middenstem een romige, karamelachtige kwaliteit heeft. Opera rollen zoals Carmen (Carmen), Charlotte (Werther), Marguerite (La Damnation de Faust) en verschillende broekenrollen zoals Cherubino (Le Nozze di Figaro), Urbain (Les Huguenots) of Annio (La clemenza). di Tito) passen voor haar stem en persoonlijkheid.
 
-Natalia showed early aptitude for classical music and quickly picked up music notation while studying piano at the age of eight. By taking ballet classes, young Natalia developed melodic memory, sense of rhythm and graceful coordination. At the age of seventeen she got into finals of a local talent competition “Kunstbende” in the voice category. That success encouraged her to continue formal music education as a singer.
+Heel vroeg toonde ze interesse voor klassieke muziek. Op achtjarige leeftijd leerde ze muzieknotatie en kreeg ze eerste pianolessen. Daarnaast ging ze naar een balletschool waar ze heel intensief werkte aan de ontwikkeling van melodische geheugen, gevoel voor ritme, elegante lichaamshouding en coördinatie. Op zeventienjarige leeftijd deed ze mee aan een lokale wedstrijd "Kunstbende" wat bracht haar naar de finale in de stemcategorie. Dit ervaring heeft aanleiding gegeven tot haar verdere muzikale studies.
 
-Natalia was admitted to the Luca School of Arts in 2009. Together with her former professor Dina Grossberger they shaped and polished her artistic and vocal skills. After five years of intense training she successfully obtained Master’s Degree in Music. Soon after that she got an opportunity to get instruction with professor Melanie Sonnenberg at the University of Houston Moores School of Music. In the summer 2015 Natalia participated in the program called the “Le Chiavi di Bel Canto”. During these sessions she was coached by Nova Thomas, Joseph Evans and Ruth Ann.
+Natalia werd in 2009 toegelaten tot de Luca School of Arts in Leuven. Samen met haar voormalige docente zang Dina Grossberger hebben ze haar artistieke en vocale vaardigheden ontplooid. Na vijf jaar intensieve opleiding behaalde ze Master in de Muziek met onderscheiding. Kort daarna kreeg ze de gelegenheid om les te krijgen bij docente zang Melanie Sonnenberg aan de Universiteit van Houston. In de zomer 2015 nam Natalia deel aan het zomerprogramma genaamd "Le Chiavi di Bel Canto". Tijdens deze sessies werd ze door Nova Thomas, Joseph Evans en Ruth Ann gecoacht.
 
-Natalia Ivanova currently is exploring new repertoire and being coached by director Ronny Lauwers and piano coach Iris de Blaere. Furthermore she is developing her YouTube channel where she shares her experience and helps other singers with their vocal technique.
+Op dit moment verkent Natalia het nieuw repertoire en wordt ze gecoacht door regisseur Ronny Lauwers en pianiste Iris de Blaere. Verder werkt ze aan haar YouTube-kanaal, waar ze andere zangers helpt met hun vocale techniek.
 
-To read more about her artistic projects click here.
+Klik hier voor meer informatie over haar artistieke projecten.
 
-Download her Repertoire [here]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
+Download haar Repertoire [hier]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 
-Download her Master’s Degree [here]({{ site.baseurl }}/assets/Master_Nl.jpg).
+Download haar Master’s Degree [hier]({{ site.baseurl }}/assets/Master_Nl.jpg).
 
-Download her CV [here]({{ site.baseurl }}/assets/CV_ND.pdf).                                  
+Download haar CV [hier]({{ site.baseurl }}/assets/CV_ND.pdf).                                  
                                                                                    
 ![A bio picture](assets/DSC_1026.jpg) Photo Credit: Dirk Hinderyckx
