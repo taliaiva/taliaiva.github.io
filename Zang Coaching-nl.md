@@ -2,7 +2,7 @@
 layout: page
 title: "Zang Coaching"
 menuorder: 4
-ref: vocal-coaching
+ref: Zang Coaching
 lang: nl
 langorder: 3
 ---
