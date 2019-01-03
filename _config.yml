@@ -91,9 +91,9 @@ home:
   ru:
     home:
       url: "/index-ru.html"
-  de:
+  nl:
     home:
-      url: "/index-de.html"
+      url: "/index-nl.html"
       
       
       
