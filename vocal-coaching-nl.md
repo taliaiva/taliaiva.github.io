@@ -2,7 +2,7 @@
 layout: page
 title: "Vocal Coaching"
 menuorder: 4
-ref: vocal coaching
+ref: vocal-coaching
 lang: nl
 langorder: 3
 ---
