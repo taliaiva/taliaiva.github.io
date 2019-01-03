@@ -63,25 +63,25 @@ t:
     contact:
       name: "Contact"
       url: "/contact-ru.html"
-  de:
+  nl:
     about:
       name: "About"
-      url: "/about-de.html"
+      url: "/about-nl.html"
     pictures:
       name: "Pictures"
-      url: "/pictures-de.html"
+      url: "/pictures-nl.html"
     video:
       name: "Video"
-      url: "/video-de.html"
+      url: "/video-nl.html"
     vocal-coaching:
       name: "Vocal Coaching"
-      url: "/vocal-coaching-de.html"
+      url: "/vocal-coaching-nl.html"
     projects:
       name: "Projecten"
-      url: "/projecten-de.html"
+      url: "/projecten-nl.html"
     contact:
       name: "Contact"
-      url: "/contact-de.html"
+      url: "/contact-nl.html"
 
 
 home:
