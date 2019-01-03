@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vocal Coaching"
+title: Coaching
 menuorder: 4
 ref: vocal-coaching
 lang: nl

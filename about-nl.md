@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Biografie 
 menuorder: 2
 lang: nl
 ref: about

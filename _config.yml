@@ -65,16 +65,16 @@ t:
       url: "/contact-ru.html"
   nl:
     about:
-      name: "About"
+      name: "Biografie"
       url: "/about-nl.html"
     pictures:
-      name: "Pictures"
+      name: "Foto's"
       url: "/pictures-nl.html"
     video:
-      name: "Video"
+      name: "Video's"
       url: "/video-nl.html"
     vocal-coaching:
-      name: "Vocal Coaching"
+      name: "Coaching"
       url: "/vocal-coaching-nl.html"
     projects:
       name: "Projecten"

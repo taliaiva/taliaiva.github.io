@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video
+title: Video's
 menuorder: 5
 lang: nl
 ref: video

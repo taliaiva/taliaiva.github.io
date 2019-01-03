@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galerij
+title: Foto's
 menuorder: 7
 lang: nl
 ref: pictures
