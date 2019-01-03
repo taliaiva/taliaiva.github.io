@@ -8,7 +8,7 @@ langorder: 2
 ---
 
 
-TaliaIvaVoice@gmail.com
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 Подписывайтесь на Instagram: [TaliaIva](https://www.instagram.com/taliaiva/)
 

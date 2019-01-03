@@ -7,7 +7,7 @@ lang: nl
 langorder: 3
 ---
 
-TaliaIvaVoice@gmail.com
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 Volg Natalia op Instagram: [TaliaIva](https://www.instagram.com/taliaiva/)
 
