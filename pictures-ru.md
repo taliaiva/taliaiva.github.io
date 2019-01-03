@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Фотографии
 menuorder: 7
 lang: ru
 ref: pictures
