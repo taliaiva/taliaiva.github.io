@@ -2,7 +2,7 @@
 layout: page
 title: Video
 menuorder: 5
-lang: de
+lang: nl
 ref: video
 langorder: 3
 ---

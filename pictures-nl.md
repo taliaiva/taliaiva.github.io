@@ -2,7 +2,7 @@
 layout: page
 title: Galerij
 menuorder: 7
-lang: de
+lang: nl
 ref: pictures
 langorder: 3
 ---
