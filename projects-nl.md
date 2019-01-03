@@ -20,7 +20,7 @@ Viering van het jubileum van Handelsbeurs 2017
 Op 17 oktober vierde het Handelsbeurs haar 15e verjaardag. Natalia kreeg de gelegenheid om deel te nemen aan het Russisch festival georganiseerd door het productiehuis CirQ op Kouter in Gent. Daar zong ze Russische volksliederen begeleid door pianist Mike Julien. Bij deze gelegenheid werd ze ook uitgenodigd om een promotie spot op radio 1 op te nemen.
 
 
-(Handelsbeurs 15 mp3)
+<audio controls src="assets/Handelsbeurs 15.mp3"> </audio>
 
 ![](assets/Projects pic 2.jpg)
 
