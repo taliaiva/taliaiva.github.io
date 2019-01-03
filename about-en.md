@@ -15,7 +15,7 @@ Natalia was admitted to the Luca School of Arts in 2009. Together with her forme
 
 Natalia Ivanova currently is exploring new repertoire and being coached by director Ronny Lauwers and piano coach Iris de Blaere. Furthermore she is developing her YouTube channel where she shares her experience and helps other singers with their vocal technique.
 
-To read more about her artistic projects click here.
+To read more about her artistic projects click [here]({{ site.baseurl }}/projects-en.html).
 
 Download her Repertoire [here]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 

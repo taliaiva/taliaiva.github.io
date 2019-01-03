@@ -15,7 +15,7 @@ Natalia werd in 2009 toegelaten tot de Luca School of Arts in Leuven. Samen met 
 
 Op dit moment verkent Natalia het nieuw repertoire en wordt ze gecoacht door regisseur Ronny Lauwers en pianiste Iris de Blaere. Verder werkt ze aan haar YouTube-kanaal, waar ze andere zangers helpt met hun vocale techniek.
 
-Klik hier voor meer informatie over haar artistieke projecten.
+Klik [hier]({{ site.baseurl }}/projects-nl.html) voor meer informatie over haar artistieke projecten.
 
 Download haar Repertoire [hier]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 
