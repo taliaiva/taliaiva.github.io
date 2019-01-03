@@ -46,22 +46,22 @@ t:
       url: "/contact-en.html"
   ru:
     about:
-      name: "About"
+      name: "Биография"
       url: "/about-ru.html"
     pictures:
-      name: "Pictures"
+      name: "Фотографии"
       url: "/pictures-ru.html"
     video:
-      name: "Video"
+      name: "Видео"
       url: "/video-ru.html"
     vocal-coaching:
-      name: "Vocal Coaching"
-      url: "/vocal-coaching.html"
+      name: "Уроки вокала"
+      url: "/vocal-coaching-ru.html"
     projects:
-      name: "Projects"
+      name: "Проекты"
       url: "/projects-ru.html"
     contact:
-      name: "Contact"
+      name: "Контакт"
       url: "/contact-ru.html"
   nl:
     about:
