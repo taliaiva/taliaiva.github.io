@@ -89,7 +89,7 @@ langorder: 2
 
 ![](assets/Projects pic 16.jpg)
 
-
+Фотография предоставлена Куном Дэ Сметом
 
 
 
