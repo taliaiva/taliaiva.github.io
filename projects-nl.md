@@ -132,15 +132,14 @@ Gedurende een aantal jaar Natalia was een leadzangeres van een lounge band "Cock
 Luister naar het nummer "Aphrodizzy" om een idee te krijgen:
 <audio controls src="assets/Projects audio Aphrodizzy.mp3"> </audio>
 Natalia Ivanova - Zang
+
 Ilya Dynov - Drums
+
 David Colameo - Bas
+
 Jan-Sebastiaan Degeyter - Gitaar
 
-Listen tot the song “Aphrodizzy” to get an idea:
-Natalia Ivanova – Vocals
-Ilya Dynov – Drums
-David Colameo – Bass
-Jan-Sebastiaan Degeyter – Guitar
+
 
 
 
