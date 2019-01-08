@@ -149,7 +149,14 @@ Cocktail dress 2007-2009
 
 For a couple of years Natalia has been a lead singer of a lounge band “Cocktail Dress”. The band consisted of percussion, vocals, electric guitar and bass guitar. They created unique sound and original songs that drew attention of festival organizers. Very soon they were performing at different lounge bars and at the Paulus Festival in Ostend. They released their first LP with original songs and a few covers called “Black Russian”.
 
+
+Listen tot the song “Aphrodizzy” to get an idea:
 <audio controls src="assets/Projects audio Aphrodizzy.mp3"> </audio>
+Natalia Ivanova – Vocals
+Ilya Dynov – Drums
+David Colameo – Bass
+Jan-Sebastiaan Degeyter – Guitar
+
 
 ![](assets/Projects pic 23.JPG)
 
