@@ -153,8 +153,11 @@ For a couple of years Natalia has been a lead singer of a lounge band “Cocktai
 Listen tot the song “Aphrodizzy” to get an idea:
 <audio controls src="assets/Projects audio Aphrodizzy.mp3"> </audio>
 Natalia Ivanova – Vocals
+
 Ilya Dynov – Drums
+
 David Colameo – Bass
+
 Jan-Sebastiaan Degeyter – Guitar
 
 
