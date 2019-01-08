@@ -129,7 +129,7 @@ Cocktail dress 2007-2009
 
 Gedurende een aantal jaar Natalia was een leadzangeres van een lounge band "Cocktail Dress". De band bestond uit percussie, zang, elektrische gitaar en basgitaar. Ze hadden een unieke sound die de aandacht trok van de festivalorganisators. Al snel speelden ze in verschillende loungebars en op het Paulus Festival in Oostende. Ze brachten hun eerste demo CD uit met originele nummers en een aantal covers genaamd "Black Russian".
 
-<audio controls src="assets/Projects audio Aphrodizzy.wma"> </audio>
+<audio controls src="assets/Projects audio Aphrodizzy.mp3"> </audio>
 
 ![](assets/Projects pic 23.JPG)
 
