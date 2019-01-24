@@ -52,6 +52,7 @@ Photo shoots with Zoya Victorovna 2016
 Zoya and Natalia art directed photo shoots, creating catalogue of clothing designed by Zoya Victorovna. Pictures were inspired by summer glow, beauty of the North Sea, flowers and movie Lady Macbeth.
 
 | <a href="/assets/Projects pic 13.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 13-thumbnail.jpg) </a> | <a href="/assets/Projects pic 14.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 14-thumbnail.jpg) </a> | <a href="/assets/Projects pic 15.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 15-thumbnail.jpg) </a> |
+
 Photos Credit: Zoya Victorovna
 
 
@@ -142,6 +143,7 @@ Jan-Sebastiaan Degeyter – Guitar
 
 
 | <a href="/assets/Projects pic 23.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 23-thumbnail.jpg) </a> | <a href="/assets/Projects pic 24.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 24-thumbnail.jpg) </a> | <a href="/assets/Projects pic 25.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 25-thumbnail.jpg) </a> |
+
 Cover design: Jan-Sebastiaan Degeyter
 
 Kunstbende 2004

@@ -58,6 +58,7 @@ langorder: 2
 Зоя и Наталья занимались художественной постановкой фотосессий, создавая каталог дизайнерской одежды Зои Викторовны. Фотографии были вдохновлены летним бризом, красотой Северного моря, цветами и фильмом Леди Макбет.
 
 | <a href="/assets/Projects pic 13.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 13-thumbnail.jpg) </a> | <a href="/assets/Projects pic 14.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 14-thumbnail.jpg) </a> | <a href="/assets/Projects pic 15.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 15-thumbnail.jpg) </a> |
+
 Фотографии предоставлены Зоей Викторовной
 
 

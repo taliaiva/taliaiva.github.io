@@ -53,6 +53,7 @@ Fotosessies met Zoya Victorovna 2016
 Zoya en Natalia hebben aan de artistieke foto’s gewerkt. Ze creëerden een catalogus van kleding ontworpen door Zoya Victorovna. Foto's werden geïnspireerd door de zomergloed, schoonheid van de Noordzee, bloemen en film Lady Macbeth.
 
 | <a href="/assets/Projects pic 13.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 13-thumbnail.jpg) </a> | <a href="/assets/Projects pic 14.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 14-thumbnail.jpg) </a> | <a href="/assets/Projects pic 15.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 15-thumbnail.jpg) </a> |
+
 Foto's door Zoya Victorovna
 
 27 Bflat club 2016
@@ -128,6 +129,7 @@ Jan-Sebastiaan Degeyter - Gitaar
 
 
 | <a href="/assets/Projects pic 23.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 23-thumbnail.jpg) </a> | <a href="/assets/Projects pic 24.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 24-thumbnail.jpg) </a> | <a href="/assets/Projects pic 25.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 25-thumbnail.jpg) </a> |
+
 Omslag ontworpen door Jan-Sebastiaan Degeyter
 
 Kunstbende 2004
