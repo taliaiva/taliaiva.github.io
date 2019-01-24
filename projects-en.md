@@ -22,35 +22,21 @@ On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Na
 
 <audio controls src="assets/Handelsbeurs 15.mp3"> </audio>
 
-![](assets/Projects pic 2.jpg)
-
-![](assets/Projects pic 3.jpg)
-
-![](assets/Projects pic 4.jpg)
-
-
+| <a href="/assets/Projects pic 2.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 2-thumbnail.jpg) </a> | <a href="/assets/Projects pic 3.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 3-thumbnail.jpg) </a> | <a href="/assets/Projects pic 4.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 4-thumbnail.jpg) </a> |
 
 
 Winter concert Castle Leyselebeke 2017
 
 Beautiful classical recital organized at the heart of Sint-Michiels in a gorgeous Castle Leyselebeke. Trio ensemble consisting of Victor Pevernagie, Alexander Declercq and Natalia Ivanova performed art songs, arias and duets from Romantic and Classical period. The program included pieces by Tchaikovsky, Bizet, Strauss, Mozart and Berlioz.
 
-![](assets/Projects pic 5.jpg)
-
-![](assets/Projects pic 6.jpg)
-
-![](assets/Projects pic 7.jpg)
+| <a href="/assets/Projects pic 5.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 5-thumbnail.jpg) </a> | <a href="/assets/Projects pic 6.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 6-thumbnail.jpg) </a> | <a href="/assets/Projects pic 7.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 7-thumbnail.jpg) </a> |
 
 
 Musical Beauty and the Beast 2017
 
 In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the Beast”. Natalia was engaged in the project and directed songs appearing in the musical. It was a joy to instruct and guide young dancers towards a great performance.
 
-![](assets/Projects pic 8.JPG)
-
-![](assets/Projects pic 9.JPG)
-
-![](assets/Projects pic 10.JPG)
+| <a href="/assets/Projects pic 8.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 8-thumbnail.jpg) </a> | <a href="/assets/Projects pic 9.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 9-thumbnail.jpg) </a> | <a href="/assets/Projects pic 10.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 10-thumbnail.jpg) </a> |
 
 
 
@@ -58,20 +44,14 @@ Rose De Leyn concert 2016
 
 Natalia interpreted “Habanera” by Bizet from the iconic opera “Carmen” at the concert in Rose De Leyn. Natalia was accompanied by Alexander Declercq.
 
-![](assets/Projects pic 11.JPG)
-
-![](assets/Projects pic 12.JPG)
+| <a href="/assets/Projects pic 11.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 11-thumbnail.jpg) </a> | <a href="/assets/Projects pic 12.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 12-thumbnail.jpg) </a> |
 
 
 Photo shoots with Zoya Victorovna 2016
 
 Zoya and Natalia art directed photo shoots, creating catalogue of clothing designed by Zoya Victorovna. Pictures were inspired by summer glow, beauty of the North Sea, flowers and movie Lady Macbeth.
 
-![](assets/Projects pic 13.jpg)
-
-![](assets/Projects pic 14.jpg)
-
-![](assets/Projects pic 15.jpg)
+| <a href="/assets/Projects pic 13.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 13-thumbnail.jpg) </a> | <a href="/assets/Projects pic 14.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 14-thumbnail.jpg) </a> | <a href="/assets/Projects pic 15.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 15-thumbnail.jpg) </a> |
 Photos Credit: Zoya Victorovna
 
 
@@ -161,11 +141,7 @@ David Colameo – Bass
 Jan-Sebastiaan Degeyter – Guitar
 
 
-![](assets/Projects pic 23.JPG)
-
-![](assets/Projects pic 24.JPG)
-
-![](assets/Projects pic 25.jpg)
+| <a href="/assets/Projects pic 23.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 23-thumbnail.jpg) </a> | <a href="/assets/Projects pic 24.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 24-thumbnail.jpg) </a> | <a href="/assets/Projects pic 25.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 25-thumbnail.jpg) </a> |
 Cover design: Jan-Sebastiaan Degeyter
 
 Kunstbende 2004

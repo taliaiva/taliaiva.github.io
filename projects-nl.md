@@ -22,11 +22,7 @@ Op 17 oktober vierde het Handelsbeurs haar 15e verjaardag. Natalia kreeg de gele
 
 <audio controls src="assets/Handelsbeurs 15.mp3"> </audio>
 
-![](assets/Projects pic 2.jpg)
-
-![](assets/Projects pic 3.jpg)
-
-![](assets/Projects pic 4.jpg)
+| <a href="/assets/Projects pic 2.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 2-thumbnail.jpg) </a> | <a href="/assets/Projects pic 3.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 3-thumbnail.jpg) </a> | <a href="/assets/Projects pic 4.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 4-thumbnail.jpg) </a> |
 
 
 Winterconcert Kasteel Leyselebeke 2017
@@ -34,11 +30,7 @@ Winterconcert Kasteel Leyselebeke 2017
 Mooi klassiek recital georganiseerd in het hart van Sint-Michiels in een prachtig kasteel Leyselebeke. Trio-ensemble bestaande uit Victor Pevernagie, Alexander Declercq en Natalia Ivanova voerden kunstliederen, aria's en duetten uit uit de romantische en klassieke periode. Het programma bevatte stukken van Tsjaikovski, Bizet, Strauss, Mozart en Berlioz.
 
 
-![](assets/Projects pic 5.jpg)
-
-![](assets/Projects pic 6.jpg)
-
-![](assets/Projects pic 7.jpg)
+| <a href="/assets/Projects pic 5.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 5-thumbnail.jpg) </a> | <a href="/assets/Projects pic 6.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 6-thumbnail.jpg) </a> | <a href="/assets/Projects pic 7.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 7-thumbnail.jpg) </a> |
 
 
 Musical "Belle en het Beest" 2017
@@ -46,11 +38,7 @@ Musical "Belle en het Beest" 2017
 In de zomer van 2017 voerde dansschool Rose De Leyn musical "Belle en het Beest" uit. Natalia deed mee aan dat project en regisseerde liedjes die in de musical verschenen. Het was een genoegen om jonge dansers naar een geweldige uitvoering te begeleiden.
 
 
-![](assets/Projects pic 8.JPG)
-
-![](assets/Projects pic 9.JPG)
-
-![](assets/Projects pic 10.JPG)
+| <a href="/assets/Projects pic 8.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 8-thumbnail.jpg) </a> | <a href="/assets/Projects pic 9.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 9-thumbnail.jpg) </a> | <a href="/assets/Projects pic 10.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 10-thumbnail.jpg) </a> |
 
 
 Concert in de Rose De Leyn 2016
@@ -58,19 +46,13 @@ Concert in de Rose De Leyn 2016
 Natalia interpreteerde "Habanera" van Bizet uit de bekende opera "Carmen". Tijdens het concert werd Natalia door Alexander Declercq op de piano begeleid.
 
 
-![](assets/Projects pic 11.JPG)
-
-![](assets/Projects pic 12.JPG)
+| <a href="/assets/Projects pic 11.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 11-thumbnail.jpg) </a> | <a href="/assets/Projects pic 12.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 12-thumbnail.jpg) </a> |
 
 Fotosessies met Zoya Victorovna 2016
 
 Zoya en Natalia hebben aan de artistieke foto’s gewerkt. Ze creëerden een catalogus van kleding ontworpen door Zoya Victorovna. Foto's werden geïnspireerd door de zomergloed, schoonheid van de Noordzee, bloemen en film Lady Macbeth.
 
-![](assets/Projects pic 13.jpg)
-
-![](assets/Projects pic 14.jpg)
-
-![](assets/Projects pic 15.jpg)
+| <a href="/assets/Projects pic 13.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 13-thumbnail.jpg) </a> | <a href="/assets/Projects pic 14.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 14-thumbnail.jpg) </a> | <a href="/assets/Projects pic 15.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 15-thumbnail.jpg) </a> |
 Foto's door Zoya Victorovna
 
 27 Bflat club 2016
@@ -145,11 +127,7 @@ Jan-Sebastiaan Degeyter - Gitaar
 
 
 
-![](assets/Projects pic 23.JPG)
-
-![](assets/Projects pic 24.JPG)
-
-![](assets/Projects pic 25.jpg)
+| <a href="/assets/Projects pic 23.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 23-thumbnail.jpg) </a> | <a href="/assets/Projects pic 24.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 24-thumbnail.jpg) </a> | <a href="/assets/Projects pic 25.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 25-thumbnail.jpg) </a> |
 Omslag ontworpen door Jan-Sebastiaan Degeyter
 
 Kunstbende 2004

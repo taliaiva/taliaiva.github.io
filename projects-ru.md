@@ -20,11 +20,7 @@ langorder: 2
 
 <audio controls src="assets/Handelsbeurs 15.mp3"> </audio>
 
-![](assets/Projects pic 2.jpg)
-
-![](assets/Projects pic 3.jpg)
-
-![](assets/Projects pic 4.jpg)
+| <a href="/assets/Projects pic 2.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 2-thumbnail.jpg) </a> | <a href="/assets/Projects pic 3.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 3-thumbnail.jpg) </a> | <a href="/assets/Projects pic 4.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 4-thumbnail.jpg) </a> |
 
 
 
@@ -33,11 +29,7 @@ langorder: 2
 Прекрасный классический концерт, организованный в самом сердце Синт-Михилса в великолепном замке Лейселебеке. Трио-ансамбль в составе Виктора Певернаге, Александра Деклерка и Натальи Ивановой исполнял художественные песни, арии и дуэты эпохи романтизма и классики. В программу вошли пьесы Чайковского, Бизе, Штрауса, Моцарта и Берлиоза.
 
 
-![](assets/Projects pic 5.jpg)
-
-![](assets/Projects pic 6.jpg)
-
-![](assets/Projects pic 7.jpg)
+| <a href="/assets/Projects pic 5.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 5-thumbnail.jpg) </a> | <a href="/assets/Projects pic 6.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 6-thumbnail.jpg) </a> | <a href="/assets/Projects pic 7.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 7-thumbnail.jpg) </a> |
 
 
 
@@ -46,11 +38,7 @@ langorder: 2
 
 Летом 2017 года школа танцев «Роза Де Лейн» поставила мюзикл «Красавица и чудовище». Наталья режиссировалa и руководила постановкой песен в мюзикле. Онa с радостью сопровождала и учила молодых танцоров петь и играть на сцене.
 
-![](assets/Projects pic 8.JPG)
-
-![](assets/Projects pic 9.JPG)
-
-![](assets/Projects pic 10.JPG)
+| <a href="/assets/Projects pic 8.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 8-thumbnail.jpg) </a> | <a href="/assets/Projects pic 9.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 9-thumbnail.jpg) </a> | <a href="/assets/Projects pic 10.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 10-thumbnail.jpg) </a> |
 
 
 
@@ -59,9 +47,7 @@ langorder: 2
 
 Наталья исполняла «Хабанеру» Бизе из известной оперы «Кармен» на концерте в «Роза Де Лейн». На фортепиано Наталью аккомпанировал Александр Деклерк.
 
-![](assets/Projects pic 11.JPG)
-
-![](assets/Projects pic 12.JPG)
+| <a href="/assets/Projects pic 11.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 11-thumbnail.jpg) </a> | <a href="/assets/Projects pic 12.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 12-thumbnail.jpg) </a> |
 
 
 
@@ -71,11 +57,7 @@ langorder: 2
 
 Зоя и Наталья занимались художественной постановкой фотосессий, создавая каталог дизайнерской одежды Зои Викторовны. Фотографии были вдохновлены летним бризом, красотой Северного моря, цветами и фильмом Леди Макбет.
 
-![](assets/Projects pic 13.jpg)
-
-![](assets/Projects pic 14.jpg)
-
-![](assets/Projects pic 15.jpg)
+| <a href="/assets/Projects pic 13.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 13-thumbnail.jpg) </a> | <a href="/assets/Projects pic 14.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 14-thumbnail.jpg) </a> | <a href="/assets/Projects pic 15.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 15-thumbnail.jpg) </a> |
 Фотографии предоставлены Зоей Викторовной
 
 
@@ -166,11 +148,7 @@ langorder: 2
 
 
 
-![](assets/Projects pic 23.JPG)
-
-![](assets/Projects pic 24.JPG)
-
-![](assets/Projects pic 25.jpg)
+| <a href="/assets/Projects pic 23.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 23-thumbnail.jpg) </a> | <a href="/assets/Projects pic 24.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 24-thumbnail.jpg) </a> | <a href="/assets/Projects pic 25.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 25-thumbnail.jpg) </a> |
 
 Дизайн обложки: Ян-Себастьян Дегейтер
 
