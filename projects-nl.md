@@ -82,7 +82,7 @@ Kamermuziek recitals met Lise Cornillie 2014
 
 Lise en Natalia vormden een vruchtbare samenwerking op de Luca School of Arts. Samen ontdekten ze talrijke cycli van kunstliederen van de romantische en 20e-eeuwse componisten. Ze voerden kamermuziekrepertoire uit op de verschillende locaties in Oost-Vlaanderen en Vlaams-Brabant in 2013 en 2014. "The Nursery" van M. Mussorgsky, "Five Elizabethan Songs" van I. Gurney, "A charm of Lullabies" and "Cabaret Songs" van B. Britten, "Siete Canciones Populares Espanolas" van M. de Falla zijn een paar voorbeelden uit hun uitgebreide lijst van repertoire.
 
-![](assets/Projects pic 19.JPG)
+![](assets/Projects pic 19.jpg)
 
 
 
