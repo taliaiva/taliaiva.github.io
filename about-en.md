@@ -17,10 +17,11 @@ Natalia Ivanova currently is exploring new repertoire and being coached by direc
 
 To read more about her artistic projects click [here]({{ site.baseurl }}/projects-en.html).
 
+Download her Resume [here]({{ site.baseurl }}/assets/Resume_Natalia_Ivanova.pdf).
+
 Download her Repertoire [here]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 
 Download her Master’s Degree [here]({{ site.baseurl }}/assets/Master_EN.jpg).
 
-Download her CV [here]({{ site.baseurl }}/assets/CV_ND.pdf).
 
 ![A bio picture](assets/DSC_1026.jpg) Photo Credit: Dirk Hinderyckx
