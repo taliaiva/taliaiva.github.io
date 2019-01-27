@@ -17,10 +17,11 @@ Op dit moment verkent Natalia het nieuw repertoire en wordt ze gecoacht door reg
 
 Klik [hier]({{ site.baseurl }}/projects-nl.html) voor meer informatie over haar artistieke projecten.
 
+Download haar Resume [hier]({{ site.baseurl }}/assets/Resume_Natalia_Ivanova.pdf).  
+
 Download haar Repertoire [hier]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 
 Download haar Master in de Muziek [hier]({{ site.baseurl }}/assets/Master_Nl.jpg).
-
-Download haar CV [hier]({{ site.baseurl }}/assets/CV_ND.pdf).                                  
+                             
                                                                                    
 ![A bio picture](assets/DSC_1026.jpg) Foto door Dirk Hinderyckx
