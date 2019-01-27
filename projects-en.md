@@ -16,6 +16,7 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 
 
 
+
 Concert Hall Handelsbeurs 2017
 
 On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Natalia got an opportunity to take part in the Russian festival organized by CirQ at the main square Kouter in Gent. There she sang Russian folk songs accompanied by pianist Mike Julien. On that occasion she was also invited to record a promotional radio spot on radio 1 in Belgium.
@@ -25,11 +26,16 @@ On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Na
 | <a href="/assets/Projects pic 2.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 2-thumbnail.jpg) </a> | <a href="/assets/Projects pic 3.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 3-thumbnail.jpg) </a> | <a href="/assets/Projects pic 4.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 4-thumbnail.jpg) </a> |
 
 
+
+
+
 Winter concert Castle Leyselebeke 2017
 
 Beautiful classical recital organized at the heart of Sint-Michiels in a gorgeous Castle Leyselebeke. Trio ensemble consisting of Victor Pevernagie, Alexander Declercq and Natalia Ivanova performed art songs, arias and duets from Romantic and Classical period. The program included pieces by Tchaikovsky, Bizet, Strauss, Mozart and Berlioz.
 
 | <a href="/assets/Projects pic 5.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 5-thumbnail.jpg) </a> | <a href="/assets/Projects pic 6.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 6-thumbnail.jpg) </a> | <a href="/assets/Projects pic 7.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 7-thumbnail.jpg) </a> |
+
+
 
 
 Musical Beauty and the Beast 2017
@@ -40,11 +46,13 @@ In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the
 
 
 
+
 Rose De Leyn concert 2016
 
 Natalia interpreted “Habanera” by Bizet from the iconic opera “Carmen” at the concert in Rose De Leyn. Natalia was accompanied by Alexander Declercq.
 
 | <a href="/assets/Projects pic 11.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 11-thumbnail.jpg) </a> | <a href="/assets/Projects pic 12.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 12-thumbnail.jpg) </a> |
+
 
 
 Photo shoots with Zoya Victorovna 2016
