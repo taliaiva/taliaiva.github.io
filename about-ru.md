@@ -22,7 +22,6 @@ langorder: 2
 Скачать репертуар нажмите [здесь]({{ site.baseurl }}/assets/Repertoire_EN.pdf).    
 
 Скачать степень магистра нажмите [здесь]({{ site.baseurl }}/assets/Master_EN.jpg).    
-
-Скачать резюме нажмите [здесь]({{ site.baseurl }}/assets/CV_ND.pdf).                                           
-                                                                                  
+                                      
+                                                                                 
 ![A bio picture](assets/DSC_1026.jpg) Фотография предоставлена: Дирком Хендриксом
