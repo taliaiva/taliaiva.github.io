@@ -17,6 +17,8 @@ langorder: 2
 
 Чтобы узнать больше о её художественных проектах, нажмите [здесь]({{ site.baseurl }}/projects-ru.html).
 
+Скачать резюме нажмите [здесь]({{ site.baseurl }}/assets/Resume_Natalia_Ivanova.pdf).   
+
 Скачать репертуар нажмите [здесь]({{ site.baseurl }}/assets/Repertoire_EN.pdf).    
 
 Скачать степень магистра нажмите [здесь]({{ site.baseurl }}/assets/Master_EN.jpg).    
