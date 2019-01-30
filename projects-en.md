@@ -7,7 +7,7 @@ lang: en
 langorder: 1
 ---
 
-## Vocal Coaching 2018
+### Vocal Coaching 2018
 
 Natalia has created YouTube channel where she shares her experience in vocal development. There you can find various exercises that shape and balance your voice. Topics like breath support, projection, vocal mix, lifestyle, physical exercises and other tools necessary to help singers on their journey to the vocal freedom are being discussed. 
 
@@ -17,7 +17,7 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 
 
 
-Concert Hall Handelsbeurs 2017
+#### Concert Hall Handelsbeurs 2017
 
 On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Natalia got an opportunity to take part in the Russian festival organized by CirQ at the main square Kouter in Gent. There she sang Russian folk songs accompanied by pianist Mike Julien. On that occasion she was also invited to record a promotional radio spot on radio 1 in Belgium.
 
@@ -29,7 +29,7 @@ On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Na
 
 
 
-Winter concert Castle Leyselebeke 2017
+##### Winter concert Castle Leyselebeke 2017
 
 Beautiful classical recital organized at the heart of Sint-Michiels in a gorgeous Castle Leyselebeke. Trio ensemble consisting of Victor Pevernagie, Alexander Declercq and Natalia Ivanova performed art songs, arias and duets from Romantic and Classical period. The program included pieces by Tchaikovsky, Bizet, Strauss, Mozart and Berlioz.
 
