@@ -14,8 +14,7 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 
 ![](assets/Projects pic 1.jpg)
 
-
-
+<br><br>
 
 #### Concert Hall Handelsbeurs 2017
 
@@ -25,9 +24,7 @@ On October 17th  Handelsbeurs Concert Hall celebrated their 15th anniversary. Na
 
 | <a href="/assets/Projects pic 2.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 2-thumbnail.jpg) </a> | <a href="/assets/Projects pic 3.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 3-thumbnail.jpg) </a> | <a href="/assets/Projects pic 4.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 4-thumbnail.jpg) </a> |
 
-
-
-
+<br><br>
 
 #### Winter concert Castle Leyselebeke 2017
 
@@ -35,8 +32,7 @@ Beautiful classical recital organized at the heart of Sint-Michiels in a gorgeou
 
 | <a href="/assets/Projects pic 5.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 5-thumbnail.jpg) </a> | <a href="/assets/Projects pic 6.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 6-thumbnail.jpg) </a> | <a href="/assets/Projects pic 7.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 7-thumbnail.jpg) </a> |
 
-
-
+<br><br>
 
 #### Musical Beauty and the Beast 2017
 
@@ -44,8 +40,7 @@ In the summer 2017 dance school Rose De Leyn conducted musical “Beauty and the
 
 | <a href="/assets/Projects pic 8.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 8-thumbnail.jpg) </a> | <a href="/assets/Projects pic 9.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 9-thumbnail.jpg) </a> | <a href="/assets/Projects pic 10.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 10-thumbnail.jpg) </a> |
 
-
-
+<br><br>
 
 #### Rose De Leyn concert 2016
 
@@ -53,7 +48,7 @@ Natalia interpreted “Habanera” by Bizet from the iconic opera “Carmen” a
 
 | <a href="/assets/Projects pic 11.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 11-thumbnail.jpg) </a> | <a href="/assets/Projects pic 12.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 12-thumbnail.jpg) </a> |
 
-
+<br><br>
 
 #### Photo shoots with Zoya Victorovna 2016
 
@@ -63,6 +58,7 @@ Zoya and Natalia art directed photo shoots, creating catalogue of clothing desig
 
 Photos Credit: Zoya Victorovna
 
+<br><br>
 
 #### 27 Bflat jazz bar performance 2016
 
@@ -74,7 +70,7 @@ Natalia performed jazz standards in the tourist heart of Bruges jazz & blues clu
 
 Photo Credit: Koen
 
-
+<br><br>
 
 #### Dudley Recital Hall concert 2015
 
@@ -83,6 +79,7 @@ Natalia received a scholarship to participate at the Immanuel and Helen Olshan T
 
 ![](assets/Projects pic 17.jpg)
 
+<br><br>
 
 #### The Ilocano club of Metropolitan Houston 2015
 
@@ -90,8 +87,7 @@ Natalia performed a wonderful rendition of duet “The Prayer” at the gala din
 
 ![](assets/Projects pic 18.jpg)
 
-
-
+<br><br>
 
 #### Chamber music recitals with Lise Cornillie 2014
 
@@ -99,8 +95,7 @@ Lise and Natalia formed a fruitful collaboration at the Luca School of Arts. Tog
 
 ![](assets/Projects pic 19.jpg)
 
-
-
+<br><br>
 
 #### Art song concert Luca School of Arts 2013
 
@@ -108,10 +103,7 @@ Chamber music class of Luca School of Arts performed arts songs from romantic er
 
 ![](assets/Projects pic 20.jpg)
 
-
-
-
-
+<br><br>
 
 #### Dido and Aeneas 2011 - 2012
 
@@ -119,20 +111,15 @@ Two successive years Natalia was engaged in the production of the Baroque opera 
 
 ![](assets/Projects pic 21.jpg)
 
-
-
-
-
+<br><br>
 
 #### Recital at Pianos Maene in Brussels 2010
 
 Beautiful classical recital that took place in the Piano Maene concert hall. The program included art songs and arias by Nikolai Rimsky-Korsakov, Franz Lehar and Jacques Offenbach. Natalia was accompanied by a talented pianist Peter Jeurissen.
 
-
-
 ![](assets/Projects pic 22.jpg)
 
-
+<br><br>
 
 #### Cocktail dress 2007-2009
 
@@ -153,6 +140,8 @@ Jan-Sebastiaan Degeyter – Guitar
 | <a href="/assets/Projects pic 23.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 23-thumbnail.jpg) </a> | <a href="/assets/Projects pic 24.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 24-thumbnail.jpg) </a> | <a href="/assets/Projects pic 25.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 25-thumbnail.jpg) </a> |
 
 Cover design: Jan-Sebastiaan Degeyter
+
+<br><br>
 
 #### Kunstbende 2004
 
