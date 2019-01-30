@@ -13,6 +13,7 @@ langorder: 2
 
 ![](assets/Projects pic 1.jpg)
 
+<br><br>
 
 #### Концертный зал «Handelsbeurs» 2017
 
@@ -22,7 +23,7 @@ langorder: 2
 
 | <a href="/assets/Projects pic 2.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 2-thumbnail.jpg) </a> | <a href="/assets/Projects pic 3.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 3-thumbnail.jpg) </a> | <a href="/assets/Projects pic 4.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 4-thumbnail.jpg) </a> |
 
-
+<br><br>
 
 #### Зимний концерт в замке Лейселебеке 2017
 
@@ -31,8 +32,7 @@ langorder: 2
 
 | <a href="/assets/Projects pic 5.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 5-thumbnail.jpg) </a> | <a href="/assets/Projects pic 6.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 6-thumbnail.jpg) </a> | <a href="/assets/Projects pic 7.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 7-thumbnail.jpg) </a> |
 
-
-
+<br><br>
 
 #### Мюзикл «Kрасавица и чудовище» 2017
 
@@ -40,8 +40,7 @@ langorder: 2
 
 | <a href="/assets/Projects pic 8.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 8-thumbnail.jpg) </a> | <a href="/assets/Projects pic 9.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 9-thumbnail.jpg) </a> | <a href="/assets/Projects pic 10.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 10-thumbnail.jpg) </a> |
 
-
-
+<br><br>
 
 #### Концерт «Роза Де Лейн» 2016
 
@@ -49,9 +48,7 @@ langorder: 2
 
 | <a href="/assets/Projects pic 11.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 11-thumbnail.jpg) </a> | <a href="/assets/Projects pic 12.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 12-thumbnail.jpg) </a> |
 
-
-
-
+<br><br>
 
 #### Фотосессии с Зоей Викторовной 2016
 
@@ -61,10 +58,7 @@ langorder: 2
 
 Фотографии предоставлены Зоей Викторовной
 
-
-
-
-
+<br><br>
 
 #### Выступление в 27 B Flat 2016
 
@@ -74,7 +68,7 @@ langorder: 2
 
 Фотография предоставлена Куном Дэ Сметом
 
-
+<br><br>
 
 #### Выступление в концертном зале Дадли 2015
 
@@ -82,17 +76,15 @@ langorder: 2
 
 ![](assets/Projects pic 17.jpg)
 
-
-
-
+<br><br>
 
 #### Выступление в Илокано клубе Хьюстона 2015
 
 Наталья исполнила замечательную версию дуэта «Молитва» на торжественном ужине в клубе Илокано митрополита Хьюстона. Мероприятие было организовано в престижном отеле Hilton Houston Galleria Area.
 
-
 ![](assets/Projects pic 18.jpg)
 
+<br><br>
 
 #### Концерты камерной музыки с Лизой Карнили 2014
 
@@ -100,9 +92,7 @@ langorder: 2
 
 ![](assets/Projects pic 19.jpg)
 
-
-
-
+<br><br>
 
 #### Концерт художественной песни Школа Искусств Лука 2013
 
@@ -110,9 +100,7 @@ langorder: 2
 
 ![](assets/Projects pic 20.jpg)
 
-
-
-
+<br><br>
 
 #### Оперa «Дидона и Эней» 2011 - 2012
 
@@ -120,8 +108,7 @@ langorder: 2
 
 ![](assets/Projects pic 21.jpg)
 
-
-
+<br><br>
 
 #### Концерт в зале «Пианинo Мане» в Брюсселе 2010
 
@@ -129,8 +116,7 @@ langorder: 2
 
 ![](assets/Projects pic 22.jpg)
 
-
-
+<br><br>
 
 #### Группа «Коктейльное Платье» 2007-2009
 
@@ -146,15 +132,11 @@ langorder: 2
 
 Ян-Себастиан Дегейтер – Гитара
 
-
-
-
 | <a href="/assets/Projects pic 23.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 23-thumbnail.jpg) </a> | <a href="/assets/Projects pic 24.jpg"> ![]({{ site.baseurl }}/assets/Projects pic 24-thumbnail.jpg) </a> | <a href="/assets/Projects pic 25.jpg">  ![]({{ site.baseurl }}/assets/Projects pic 25-thumbnail.jpg) </a> |
 
 Дизайн обложки: Ян-Себастьян Дегейтер
 
-
-
+<br><br>
 
 #### Конкурс «Команда Исскуства» 2004
 
