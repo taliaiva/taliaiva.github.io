@@ -27,6 +27,7 @@ Heidelbergstraat 78-80
 
 ![](assets/Concert.jpg)
 
+<br><br>
 
 #### Vocal Coaching 2018
 
