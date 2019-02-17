@@ -7,6 +7,23 @@ lang: en
 langorder: 1
 ---
 
+#### Concert LES NUITS D'ÉTÉ 2019
+26 May 2019 at 4 pm
+"Whoever sings goes from the joy to the melody, whoever listens, from the melody to the joy." R. Tagore
+
+Enjoying classical music and socializing within a stylish and historical setting?
+Everything is possible at the concert LES NUITS D'ÉTÉ!
+The program is a wonderful tribute to the wealth of the French and Russian melodies. Art songs by H. Berlioz and P.I. Tchaikovsky are performed by Natalia Ivanova (mezzo soprano) and Ksenia Ovodova (piano).
+
+Tickets 20 €, reservation via natalia.ivanova11@gmail.com.
+You are expected at the following address:
+Castle Leyselebeke
+Heidelbergstraat 78-80
+8200 BRUGGE
+
+![](assets/Concert.jpg)
+
+
 #### Vocal Coaching 2018
 
 Natalia has created YouTube channel where she shares her experience in vocal development. There you can find various exercises that shape and balance your voice. Topics like breath support, projection, vocal mix, lifestyle, physical exercises and other tools necessary to help singers on their journey to the vocal freedom are being discussed. 
