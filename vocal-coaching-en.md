@@ -14,12 +14,14 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 Please feel free to subscribe or leave a question in the comment section. You can also send your questions to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 SKYPE LESSONS
+
 Lessons via Skype are available (Skype name: TaliaIvaVoice). These lessons can be scheduled by sending an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 Introductory Lesson
+
 Introductory lesson is similar to regular lesson in terms of approach and results gained.
 
-Skype lesson
+SKYPE LESSON
 
 We determine your goals
 
@@ -32,7 +34,7 @@ We work on your vocal technique (separate exercises)
 We work on your songs while applying new vocal technique
 
 
-Results
+RESULTS
 
 Students working with Talia can expect improvements after a few lessons already. You get a deeper understanding of how your voice works and you learn how to:
 
@@ -65,7 +67,7 @@ Speak better in terms of vocal use
 Take care of your voice (vocal hygiene)
 
 
-Cancellation policy
+CANCELLATION POLICY
 
 There is a 48 hour cancellation policy. Lessons cancelled or rescheduled within 48 hours require a full compensation.
 
