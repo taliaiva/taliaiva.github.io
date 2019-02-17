@@ -13,11 +13,13 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 
 Please feel free to subscribe or leave a question in the comment section. You can also send your questions to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bNK8kpnJadM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe
+
 SKYPE LESSONS
 
 Lessons via Skype are available (Skype name: TaliaIvaVoice). These lessons can be scheduled by sending an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
-Introductory Lesson
+INTRODUCTORY LESSON
 
 Introductory lesson is similar to regular lesson in terms of approach and results gained.
 
@@ -72,10 +74,7 @@ CANCELLATION POLICY
 There is a 48 hour cancellation policy. Lessons cancelled or rescheduled within 48 hours require a full compensation.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MKi71AN3mgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bNK8kpnJadM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GO_vvl4sVm4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yMqwdPOirCc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
