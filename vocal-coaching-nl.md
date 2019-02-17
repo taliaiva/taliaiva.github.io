@@ -15,6 +15,7 @@ Natalia heeft een YouTube kanaal gemaakt waar ze over de stem ontwikkeling praat
 
 Aarzel niet om je te abonneren of om een vraag achter te laten in het commentaargedeelte. U kunt uw vragen ook naar <a href="mailto:{{ site.email }}">{{ site.email }}</a> sturen.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bNK8kpnJadM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 SKYPE LESSEN
 
@@ -77,11 +78,7 @@ ANNULERINGSBELEID
 Er is een annuleringsbeleid van 48 uur. Lessen die geannuleerd of verplaatst zijn binnen 48 uur worden als een volledige les aangerekend.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MKi71AN3mgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bNK8kpnJadM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GO_vvl4sVm4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yMqwdPOirCc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
