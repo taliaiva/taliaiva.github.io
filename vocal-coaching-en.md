@@ -14,16 +14,21 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 Please feel free to subscribe or leave a question in the comment section. You can also send your questions to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 SKYPE LESSONS
-Lessons via Skype are available (Skype name: TaliaIvaVoice). These lessons can be scheduled by sending an email to TaliaIvaVoice@gmail.com.
+Lessons via Skype are available (Skype name: TaliaIvaVoice). These lessons can be scheduled by sending an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 Introductory Lesson
 Introductory lesson is similar to regular lesson in terms of approach and results gained.
 
 Skype lesson
+
 We determine your goals
+
 Student sings a song
+
 We examine vocal technical problems
+
 We work on your vocal technique (separate exercises)
+
 We work on your songs while applying new vocal technique
 
 
@@ -32,18 +37,31 @@ Results
 Students working with Talia can expect improvements after a few lessons already. You get a deeper understanding of how your voice works and you learn how to:
 
 Breath deeper
+
 Project your voice
+
 Support your voice
+
 Maintain a good posture
+
 Sing with more volume
+
 Mix your voice in a healthy way
+
 Equalize the vowels
+
 Keep your throat open
+
 Use resonance cavities
+
 Stabilize your middle register
+
 Stabilize your high register
+
 Sing on pitch
+
 Speak better in terms of vocal use
+
 Take care of your voice (vocal hygiene)
 
 
