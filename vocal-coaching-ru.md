@@ -13,6 +13,8 @@ langorder: 2
 
 Пожалуйста, не стесняйтесь подписаться или оставить вопрос в разделе комментариев на Ютюб канале. Вы также можете отправить свои вопросы на <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bNK8kpnJadM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 УРОКИ ПО СКАЙПУ
 
@@ -71,10 +73,3 @@ langorder: 2
 Существует 48 часов отмены. Уроки, отмененные или перенесенные в течение 48 часов, требуют полной компенсации
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MKi71AN3mgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bNK8kpnJadM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GO_vvl4sVm4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yMqwdPOirCc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
