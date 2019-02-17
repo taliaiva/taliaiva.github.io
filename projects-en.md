@@ -90,7 +90,7 @@ Natalia performed jazz standards in the tourist heart of Bruges jazz & blues clu
 
 ![](assets/Projects pic 16.jpg)
 
-Photo Credit: Koen
+Photo Credit: Koen de Smet
 
 <br><br>
 
