@@ -26,9 +26,13 @@ Introductory lesson is similar to regular lesson in terms of approach and result
 SKYPE LESSON
 
 •	We determine your goals
+
 •	Student sings a song
+
 •	We examine vocal technical problems
+
 •	We work on your vocal technique (separate exercises)
+
 •	We work on your songs while applying new vocal technique 
 
 
