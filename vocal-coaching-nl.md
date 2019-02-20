@@ -29,48 +29,48 @@ De introductieles verloopt op een gelijkaardig manier als een gewone les op het 
 
 SKYPE-LES
 
-We bepalen uw doelen
+•	We bepalen uw doelen
 
-Student zingt een liedje
+•	Student zingt een liedje
 
-We analyseren vocale technische problemen
+•	We analyseren vocale technische problemen
 
-We werken aan je vocale techniek (afzonderlijke oefeningen)
+•	We werken aan je vocale techniek (afzonderlijke oefeningen)
 
-We werken aan uw liedjes en passen de nieuwe technieken toe
+•	We werken aan uw liedjes en passen de nieuwe technieken toe
 
 
 RESULTATEN
 
 Na enkele lessen kunnen de studenten al verbeteringen verwachten. U krijgt een beter inzicht in de werking van uw stem en u leert:
 
-Diepe ademhaling
+•	Diepe ademhaling
 
-Projectie van de stem
+•	Projectie van de stem
 
-Ademsteun
+•	Ademsteun
 
-Goede houding
+•	Goede houding
 
-Zingen met meer volume
+•	Zingen met meer volume
 
-Stem op een gezonde manier mixen
+•	Stem op een gezonde manier mixen
 
-Egaliseren van de klinkers
+•	Egaliseren van de klinkers
 
-Openhouden van de keel
+•	Openhouden van de keel
 
-Resonantieruimtes gebruiken
+•	Resonantieruimtes gebruiken
 
-Uw middelste stemregister stabiliseren
+•	Uw middelste stemregister stabiliseren
 
-Uw hoger stemregister stabiliseren
+•	Uw hoger stemregister stabiliseren
 
-Juist intoneren
+•	Juist intoneren
 
-Spreekstem juist gebruiken
+•	Spreekstem juist gebruiken
 
-Voor uw stem zorgdragen (vocale hygiëne)
+•	Voor uw stem zorgdragen (vocale hygiëne)
 
 
 ANNULERINGSBELEID
