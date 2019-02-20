@@ -14,6 +14,7 @@ langorder: 1
 
 Enjoying classical music and socializing within a stylish and historical setting?
 Everything is possible at the concert LES NUITS D'ÉTÉ!
+
 The program is a wonderful tribute to the wealth of the French and Russian melodies. Art songs by H. Berlioz and P.I. Tchaikovsky are performed by Natalia Ivanova (mezzo soprano) and Ksenia Ovodova (piano).
 
 Tickets 20 €, reservation via natalia.ivanova11@gmail.com.
