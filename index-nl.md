@@ -8,9 +8,10 @@ langorder: 3
 
 Dit is een officiële website van Natalia Ivanova, mezzosopraan, vocale coach en creatieve geest.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8UlqRj4sEu4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](assets/Red_Close.jpg)
-Foto door Shannon Langman
+
+
 
 
 'Natalia heeft een instinctieve en natuurlijke gave voor interpretatie' Ronny Lauwers, voormalig directeur van de Internationale Opera Academie van Gent
@@ -20,3 +21,7 @@ Foto door Shannon Langman
 'Natalia toonde een prachtig muzikaal vakmanschap, een geweldige podiumpresentie, leergierigheid en betrokkenheid bij haar collega's' Christel Kessels, docente kamermuziek aan de Luca School of Arts
 
 'Ik was een eerste rij getuige van haar artistieke capaciteiten als een briljante zangeres' Godfried Van de Vyvere, dirigent van Acantus koor
+
+
+![](assets/Red_Close.jpg)
+Foto door Shannon Langman
