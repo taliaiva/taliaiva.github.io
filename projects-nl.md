@@ -7,6 +7,14 @@ lang: nl
 langorder: 3
 ---
 
+#### Barokvuurwerken in Geetbets
+17 en 27 Augustus 2019
+
+Kom kijken naar het vuurwerk en luisteren naar soundtracks uitgevoerd door Natalia
+
+![](assets/Fireworks.jpg)
+
+<br><br>
 
 #### Concert LES NUITS D'ÉTÉ 2019
 26 Mei 2019 om 16u
@@ -17,15 +25,6 @@ Genieten van de klassieke muziek en sociale contacten binnen een stijlvol en his
 Dit kan allemaal op het concert LES NUITS D'ÉTÉ! 
 
 Dit programma is een prachtig eerbetoon aan de rijkdom van de Franse en Russische mélodie. Kunstliederen van H. Berlioz en P.I. Tchaikovsky worden vertolkt door Natalia Ivanova (mezzosopraan) en Ksenia Ovodova (piano).
-
-Kaarten 20€, reservatie via natalia.ivanova11@gmail.com
-
-U wordt verwacht op het adres:
-
-Kasteel Leyselebeke
-Heidelbergstraat 78-80
-8200 BRUGGE
-
 
 ![](assets/Concert.jpg)
 
