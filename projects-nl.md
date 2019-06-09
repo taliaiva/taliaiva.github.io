@@ -10,7 +10,7 @@ langorder: 3
 #### Barokvuurwerken in Geetbets
 17 en 27 Augustus 2019
 
-Kom kijken naar het vuurwerk en luisteren naar soundtracks uitgevoerd door Natalia
+Kom kijken naar het vuurwerk en luisteren naar soundtracks uitgevoerd door Natalia.
 
 ![](assets/Fireworks.jpg)
 
