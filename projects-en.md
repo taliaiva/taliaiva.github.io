@@ -10,7 +10,7 @@ langorder: 1
 #### Beautiful fireworks "Barokvuurwerken" in Geetbets
 17 and 27 August 2019
 
-Come to see fireworks and listen to Natalia singing songs from movies on 17th and 27th of August.
+Come to see fireworks and listen to Natalia singing soundtracks on 17th and 27th of August.
 
 
 ![](assets/Fireworks.jpg)
