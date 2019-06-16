@@ -10,8 +10,6 @@ This is an official website of Natalia Ivanova, mezzo soprano, vocal coach and c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UlqRj4sEu4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-{% youtube 8UlqRj4sEu4 %}
-
 
 ‘Natalia has an instinctive and natural gift for interpretation’ Ronny Lauwers, former director of International Opera Academy of Ghent
 
