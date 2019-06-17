@@ -13,7 +13,7 @@ langorder: 2
 
 Пожалуйста, не стесняйтесь подписаться или оставить вопрос в разделе комментариев на Ютюб канале. Вы также можете отправить свои вопросы на <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bNK8kpnJadM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include youtubePlayer.html id="bNK8kpnJadM" %}
 
 
 УРОКИ ПО СКАЙПУ
