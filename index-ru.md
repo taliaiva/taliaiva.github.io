@@ -10,7 +10,7 @@ langorder: 2
 
 Вы заглянули на официальную страничку Натальи Ивановой, меццо-сопрано, преподавателя по вокалу и артистки.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8UlqRj4sEu4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% include youtubePlayer.html id="8UlqRj4sEu4" %}
 
 
 «У Натальи есть инстинктивный и естественный дар исполнения», - Ронни Лауверс, бывший директор Международной Oперной Aкадемии в Генте
