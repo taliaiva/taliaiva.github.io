@@ -26,7 +26,7 @@ Dit kan allemaal op het concert LES NUITS D'ÉTÉ!
 
 Dit programma is een prachtig eerbetoon aan de rijkdom van de Franse en Russische mélodie. Kunstliederen van H. Berlioz en P.I. Tchaikovsky worden vertolkt door Natalia Ivanova (mezzosopraan) en Ksenia Ovodova (piano).
 
-![](assets/Concert.jpg)
+![](assets/Kasteel2.jpg)
 
 <br><br>
 
