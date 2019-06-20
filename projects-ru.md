@@ -29,7 +29,7 @@ langorder: 2
 
 ![](assets/Kasteel2.jpg)
 
-![](assets/Kasteel3.jpg)
+![](assets/Kasteel3.JPG)
 
 
 <br><br>
