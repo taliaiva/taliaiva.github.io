@@ -31,7 +31,7 @@ The program is a wonderful tribute to the wealth of the French and Russian melod
 
 ![](assets/Kasteel2.jpg)
 
-![](assets/Kasteel3.jpg)
+![](assets/Kasteel3.JPG)
 
 <br><br>
 
