@@ -28,6 +28,9 @@ Dit programma is een prachtig eerbetoon aan de rijkdom van de Franse en Russisch
 
 ![](assets/Kasteel2.jpg)
 
+![](assets/Kasteel3.jpg)
+
+
 <br><br>
 
 #### Zang Coaching 2018
