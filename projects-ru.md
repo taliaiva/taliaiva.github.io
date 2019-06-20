@@ -29,6 +29,9 @@ langorder: 2
 
 ![](assets/Kasteel2.jpg)
 
+![](assets/Kasteel3.jpg)
+
+
 <br><br>
 
 #### Уроки вокала на Ютюбе 2018
