@@ -31,6 +31,8 @@ The program is a wonderful tribute to the wealth of the French and Russian melod
 
 ![](assets/Kasteel2.jpg)
 
+![](assets/Kasteel3.jpg)
+
 <br><br>
 
 #### Vocal Coaching 2018
