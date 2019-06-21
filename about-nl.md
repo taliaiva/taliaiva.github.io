@@ -7,7 +7,9 @@ ref: about
 langorder: 3
 ---
 
-![A bio picture](assets/Kasteel4.JPG)
+![](assets/Red_Close.jpg)
+Foto door Shannon Langman
+
 
 Natalia Ivanova is een Belgische lyrische mezzosopraan. Natalia beschikt over een uitgebreid vocaal bereik, natuurlijke muzikaliteit en een solide vocale techniek. Haar hoge noten zijn stralend, terwijl haar middenstem een romige, karamelachtige kwaliteit heeft. Opera rollen zoals Carmen (Carmen), Charlotte (Werther), Marguerite (La Damnation de Faust) en verschillende broekenrollen zoals Cherubino (Le Nozze di Figaro), Urbain (Les Huguenots) of Annio (La clemenza). di Tito) passen voor haar stem en persoonlijkheid.
 
@@ -25,4 +27,4 @@ Download haar Repertoire [hier]({{ site.baseurl }}/assets/Repertoire_EN.pdf).
 
 Download haar Master in de Muziek [hier]({{ site.baseurl }}/assets/Master_Nl.jpg).
                              
-![A bio picture](assets/Kasteel5.JPG)
+
