@@ -23,8 +23,5 @@ langorder: 2
 {% include youtubePlayer.html id="_ZtLFWnCNsM" %}
 
 
-{% include youtubePlayer.html id="z5yw4U_mb40" %}
-
-
 {% include youtubePlayer.html id="Kk1KoTWGO4c" %}
 
