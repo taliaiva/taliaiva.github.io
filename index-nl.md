@@ -9,8 +9,7 @@ langorder: 3
 Dit is een officiële website van Natalia Ivanova, mezzosopraan, vocale coach en creatieve geest.
 
 
-{% include youtubePlayer.html id="VA-QMmTfwng" %}
-
+{% include youtubePlayer.html id="nnbh1TXLft0" %}
 
 
 
