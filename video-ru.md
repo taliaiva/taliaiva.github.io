@@ -8,10 +8,10 @@ langorder: 2
 ---
 
 
-{% include youtubePlayer.html id="VA-QMmTfwng" %}
-
-
 {% include youtubePlayer.html id="nnbh1TXLft0" %}
+
+
+{% include youtubePlayer.html id="VA-QMmTfwng" %}
 
 
 {% include youtubePlayer.html id="WBYwaSPVU6Q" %}
