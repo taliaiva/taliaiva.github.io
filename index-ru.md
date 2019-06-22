@@ -11,7 +11,7 @@ langorder: 2
 Вы заглянули на официальную страничку Натальи Ивановой, меццо-сопрано, преподавателя по вокалу и артистки.
 
 
-{% include youtubePlayer.html id="nnbh1TXLft0" %}
+{% include youtubePlayer.html id="WUp3hUj14Xc" %}
 
 
 
