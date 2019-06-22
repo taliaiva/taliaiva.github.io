@@ -9,9 +9,7 @@ langorder: 3
 Dit is een officiële website van Natalia Ivanova, mezzosopraan, vocale coach en creatieve geest.
 
 
-{% include youtubePlayer.html id="nnbh1TXLft0" %}
-
-
+{% include youtubePlayer.html id="WUp3hUj14Xc" %}
 
 
 'Natalia heeft een instinctieve en natuurlijke gave voor interpretatie' Ronny Lauwers, voormalig directeur van de Internationale Opera Academie van Gent
