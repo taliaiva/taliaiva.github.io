@@ -13,7 +13,7 @@ langorder: 1
 
 Annual dance show "More than Oriental" is a unique event featuring beauty of oriental choreography, exciting music and unexpecting choice of costumes. Come to hear Natalia sing and be prepared for surprises!
 
-www.buikdanseressen.be/
+www.buikdanseressen.be
 
 ![](assets/Oriental.jpg)
 
