@@ -7,14 +7,19 @@ lang: nl
 langorder: 3
 ---
 
-#### Barokvuurwerken in Geetbets
-17 en 27 Augustus 2019
 
-Kom kijken naar het vuurwerk en luisteren naar soundtracks uitgevoerd door Natalia.
 
-![](assets/Fireworks.jpg)
+#### "Meer dan Oosters" Show 2020
+6 en 7 juni 2020 in BRUGGE
+
+Jaarlijkse dansvoorstelling "More than Oriental" is een uniek concept dat de schoonheid van Oosterse dans combineert met moderne opzwepende muziek en fraaie kostuums. Geniet van de zang van Natalia en dansers van de dansschool Azimé en wees bereid op verrassingen!
+
+www.buikdanseressen.be
+
+![](assets/Oriental.jpg)
 
 <br><br>
+
 
 #### Concert LES NUITS D'ÉTÉ 2019
 26 Mei 2019 om 16u
