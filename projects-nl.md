@@ -21,6 +21,17 @@ www.buikdanseressen.be
 <br><br>
 
 
+
+#### Barokvuurwerken in Geetbets 2019
+17 en 27 Augustus 2019
+
+Kom kijken naar het vuurwerk en luisteren naar soundtracks uitgevoerd door Natalia.
+
+![](assets/Vuurwerk.jpg)
+
+<br><br>
+
+
 #### Concert LES NUITS D'ÉTÉ 2019
 26 Mei 2019 om 16u
 
