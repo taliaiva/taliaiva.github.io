@@ -27,7 +27,7 @@ www.buikdanseressen.be
 
 Kom kijken naar het vuurwerk en luisteren naar soundtracks uitgevoerd door Natalia.
 
-![](assets/Vuurwerk.jpg)
+![](assets/Fireworks.jpg)
 
 <br><br>
 
