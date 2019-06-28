@@ -7,8 +7,21 @@ lang: en
 langorder: 1
 ---
 
-#### Beautiful fireworks "Barokvuurwerken" in Geetbets
-17 and 27 August 2019
+#### "More than Oriental" Show 2020 
+6 and 7 June 2020 in BRUGES
+
+
+Annual dance show "More than Oriental" is a unique event featuring beauty of oriental choreography, exciting music and unexpecting choice of costumes. Come to hear Natalia sing and be prepared for surprises!
+
+http://buikdanseressen.be/
+
+![](assets/Oriental.jpg)
+
+<br><br>
+
+
+#### Beautiful fireworks "Barokvuurwerken" 2019
+17 and 27 August 2019 GEETBETS
 
 Come to see fireworks and listen to Natalia singing soundtracks on 17th and 27th of August.
 
