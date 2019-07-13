@@ -17,6 +17,10 @@ Please feel free to subscribe or leave a question in the comment section. You ca
 {% include youtubePlayer.html id="bNK8kpnJadM" %}
 
 
+{% include youtubePlayer.html id="heNNbVLlRTE" %}
+
+
+
 SKYPE LESSONS
 
 Lessons via Skype are available (Skype name: TaliaIvaVoice). These lessons can be scheduled by sending an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
