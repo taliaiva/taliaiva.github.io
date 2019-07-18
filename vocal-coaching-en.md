@@ -21,7 +21,7 @@ Please feel free to subscribe or leave a question in the comment section. You ca
 
 SKYPE LESSONS
 
-Lessons via Skype are available (Skype name: TaliaIvaVoice). These lessons can be scheduled by sending an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Lessons via Skype are available. Skype name is Talia Iva (live:taliaivavoice). These lessons can be scheduled by sending an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 INTRODUCTORY LESSON
 
