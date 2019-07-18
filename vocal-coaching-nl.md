@@ -24,7 +24,7 @@ Aarzel niet om je te abonneren of om een vraag achter te laten in het commentaar
 
 SKYPE LESSEN
 
-Lessen via Skype zijn beschikbaar (Skype-naam: TaliaIvaVoice). De lessen kunnen worden geboekt door een e-mail te sturen naar <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Lessen via Skype zijn beschikbaar. Skype-naam is Talia Iva (live: TaliaIvaVoice). De lessen kunnen geboekt worden door een e-mail te sturen naar <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 
 INTRODUCTIELES
