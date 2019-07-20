@@ -9,8 +9,6 @@ langorder: 3
 
 ![](assets/BANNER YOUTUBE Vocal coaching.png)
 
-ZANG COACHING 
-
 Natalia heeft een YouTube kanaal gemaakt waar ze over de stem ontwikkeling praat. Daar kan u verschillende oefeningen vinden die uw stem helpen ontwikkelen. Onderwerpen zoals ademsteun, projectie, vocale mix, levensstijl, fysieke oefeningen en andere hulpmiddelen, die nodig zijn om zangers te helpen met hun zoektocht naar de vocale vrijheid, worden besproken.
 
 ![](assets/Students.png)
