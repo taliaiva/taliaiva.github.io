@@ -17,9 +17,11 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 
 Please feel free to subscribe or leave a question in the comment section. You can also send your questions to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
+{% include youtubePlayer.html id="9lE-GmGcrno" %}
+
+<br><br>
 
 {% include youtubePlayer.html id="heNNbVLlRTE" %}
-
 
 
 SKYPE LESSONS
