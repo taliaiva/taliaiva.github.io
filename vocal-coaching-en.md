@@ -23,6 +23,7 @@ Please feel free to subscribe or leave a question in the comment section. You ca
 
 {% include youtubePlayer.html id="heNNbVLlRTE" %}
 
+<br><br>
 
 SKYPE LESSONS
 
