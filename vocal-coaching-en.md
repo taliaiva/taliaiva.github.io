@@ -13,7 +13,6 @@ Natalia has created YouTube channel where she shares her experience in vocal dev
 
 ![](assets/Students.png)
 
-<br><br>
 
 Please feel free to subscribe or leave a question in the comment section. You can also send your questions to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
