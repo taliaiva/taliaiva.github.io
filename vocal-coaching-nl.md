@@ -13,8 +13,6 @@ Natalia heeft een YouTube kanaal gemaakt waar ze over de stem ontwikkeling praat
 
 ![](assets/Students.png)
 
-<br><br>
-
 Aarzel niet om je te abonneren of om een vraag achter te laten in het commentaargedeelte. U kunt uw vragen ook naar <a href="mailto:{{ site.email }}">{{ site.email }}</a> sturen.
 
 
