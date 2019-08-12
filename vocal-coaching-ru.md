@@ -16,6 +16,11 @@ langorder: 2
 Пожалуйста, не стесняйтесь подписаться или оставить вопрос в разделе комментариев на Ютюб канале. Вы также можете отправить свои вопросы на <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 
+
+{% include youtubePlayer.html id="kVIzNl8FQRo" %}
+
+<br><br>
+
 {% include youtubePlayer.html id="9lE-GmGcrno" %}
 
 <br><br>
